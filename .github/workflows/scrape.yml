@@ -1,0 +1,41 @@
+name: Scrape Auction.com MD Foreclosures
+
+on:
+  schedule:
+    - cron: '0 13 * * *'   # 8am ET (UTC-5) / 9am EDT (UTC-4)
+    - cron: '0 21 * * *'   # 4pm ET (UTC-5) / 5pm EDT (UTC-4)
+  workflow_dispatch:       # manual trigger
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install playwright python-dotenv -q
+          playwright install chromium --with-deps
+
+      - name: Run scraper
+        env:
+          CI: true
+          AUCTIONCOM_EMAIL: ${{ secrets.AUCTIONCOM_EMAIL }}
+          AUCTIONCOM_PASSWORD: ${{ secrets.AUCTIONCOM_PASSWORD }}
+          GITHUB_TOKEN: ${{ secrets.AUCTIONCOM_GITHUB_TOKEN }}
+        run: python auctioncom_scraper.py
+
+      - name: Commit updated data (local git)
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
+          git add auctioncom_auctions.json archive/ || true
+          git diff --cached --quiet || git commit -m "Auto-update: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push || true
