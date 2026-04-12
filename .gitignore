@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+debug_*.png
+debug_*.html
+debug_*.txt
+debug_*.json
