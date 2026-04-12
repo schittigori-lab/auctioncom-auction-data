@@ -69,6 +69,34 @@ CITY_COUNTY = {
     'chestertown': 'Kent', 'centreville': 'Queen Anne\'s', 'new market': 'Frederick',
 }
 
+# ── MD County → Courthouse location ───────────────────────────────────────────
+COUNTY_COURTHOUSE: dict[str, str] = {
+    'Allegany':        'Allegany County Courthouse, Cumberland, MD',
+    'Anne Arundel':    'Anne Arundel County Courthouse, Annapolis, MD',
+    'Baltimore':       'Baltimore County Courthouse, Towson, MD',
+    'Baltimore City':  'Baltimore City Courthouse, Baltimore, MD',
+    'Calvert':         'Calvert County Courthouse, Prince Frederick, MD',
+    'Caroline':        'Caroline County Courthouse, Denton, MD',
+    'Carroll':         'Carroll County Courthouse, Westminster, MD',
+    'Cecil':           'Cecil County Courthouse, Elkton, MD',
+    'Charles':         'Charles County Courthouse, La Plata, MD',
+    'Dorchester':      'Dorchester County Courthouse, Cambridge, MD',
+    'Frederick':       'Frederick County Courthouse, Frederick, MD',
+    'Garrett':         'Garrett County Courthouse, Oakland, MD',
+    'Harford':         'Harford County Courthouse, Bel Air, MD',
+    'Howard':          'Howard County Courthouse, Ellicott City, MD',
+    'Kent':            'Kent County Courthouse, Chestertown, MD',
+    'Montgomery':      'Montgomery County Courthouse, Rockville, MD',
+    "Prince George's": "Prince George's County Courthouse, Upper Marlboro, MD",
+    "Queen Anne's":    "Queen Anne's County Courthouse, Centreville, MD",
+    'Somerset':        'Somerset County Courthouse, Princess Anne, MD',
+    "St. Mary's":      "St. Mary's County Courthouse, Leonardtown, MD",
+    'Talbot':          'Talbot County Courthouse, Easton, MD',
+    'Washington':      'Washington County Courthouse, Hagerstown, MD',
+    'Wicomico':        'Wicomico County Courthouse, Salisbury, MD',
+    'Worcester':       'Worcester County Courthouse, Snow Hill, MD',
+}
+
 # ── Config ─────────────────────────────────────────────────────────────────────
 EMAIL       = os.getenv('AUCTIONCOM_EMAIL', '')
 PASSWORD    = os.getenv('AUCTIONCOM_PASSWORD', '')
@@ -343,22 +371,17 @@ def parse_gql_asset(item: dict) -> dict | None:
                         opening_bid = f'${int(val):,}'
                     break
 
-        # Bid deposit — from selling_method configuration
-        bid_deposit = ''
-        sm = item.get('selling_method') or {}
-        cfg = sm.get('_alias_LiveAuctionSegment__configuration') or {}
-        deposit_rule = cfg.get('state_deposit_rule', '')
-        if deposit_rule:
-            bid_deposit = f'{deposit_rule} at sale'
+        # Auction location — live trustee sale at county courthouse
+        auction_location = COUNTY_COURTHOUSE.get(county, 'MD Courthouse (see listing)')
 
         return {
             'id':               f'auctioncom-{prop_id}',
             'property_address': full_address,
             'auction_date':     auction_date,
             'auction_time':     auction_time or '10:00 AM',
-            'auction_location': 'Auction.com Online',
+            'auction_location': auction_location,
             'opening_bid':      opening_bid,
-            'bid_deposit':      bid_deposit,
+            'bid_deposit':      '',
             'beds':             beds,
             'baths':            baths,
             'sqft':             sqft,
@@ -395,7 +418,12 @@ async def scrape_all_listings(page) -> list:
     page.on('response', handle_response)
 
     await page.goto(SEARCH_URL, wait_until='networkidle', timeout=45000)
-    await page.wait_for_timeout(5000)   # let all XHR settle
+
+    # Wait until seek_listings_from_filters is captured (up to 15s)
+    for _ in range(15):
+        await page.wait_for_timeout(1000)
+        if any(_extract_assets_from_gql(r) for r in gql_responses):
+            break
 
     page.remove_listener('response', handle_response)
 
