@@ -432,10 +432,75 @@ def save_output(auctions: list):
         f.write(content)
     print(f'\nWrote {OUTPUT_FILE} ({len(auctions)} listings)')
 
-    import os as _os
-    _os.makedirs('archive', exist_ok=True)
+    os.makedirs('archive', exist_ok=True)
     with open(f'archive/{today}.json', 'w', encoding='utf-8') as f:
         f.write(content)
+
+    return content
+
+# ── Push to GitHub via API ─────────────────────────────────────────────────────
+
+def push_to_github(content: str):
+    if not GITHUB_TOKEN:
+        print('GitHub upload skipped — GITHUB_TOKEN not set')
+        return
+
+    import base64
+    import urllib.request
+
+    GITHUB_USERNAME = 'schittigori-lab'
+    GITHUB_REPO     = 'auctioncom-auction-data'
+
+    headers = {
+        'Authorization': f'token {GITHUB_TOKEN}',
+        'Content-Type':  'application/json',
+        'Accept':        'application/vnd.github+json',
+    }
+
+    def api(method, path, body=None):
+        url = f'https://api.github.com{path}'
+        data = json.dumps(body).encode() if body else None
+        req = urllib.request.Request(url, data=data, headers=headers, method=method)
+        try:
+            with urllib.request.urlopen(req) as r:
+                return json.loads(r.read())
+        except urllib.error.HTTPError as e:
+            return json.loads(e.read())
+
+    def upload(filename, file_content):
+        path = f'/repos/{GITHUB_USERNAME}/{GITHUB_REPO}/contents/{filename}'
+        existing = api('GET', path)
+        sha = existing.get('sha')
+        body = {
+            'message': f'Update {filename} [{datetime.now().strftime("%Y-%m-%d %H:%M")} UTC]',
+            'content': base64.b64encode(file_content.encode()).decode(),
+        }
+        if sha:
+            body['sha'] = sha
+        result = api('PUT', path, body)
+        if 'content' in result:
+            print(f'  Uploaded {filename}')
+        else:
+            print(f'  Upload error for {filename}: {result.get("message")}')
+
+    print('Pushing to GitHub...')
+    upload(OUTPUT_FILE, content)
+
+    today = date.today().isoformat()
+    archive_path = f'archive/{today}.json'
+    existing_archive = api('GET', f'/repos/{GITHUB_USERNAME}/{GITHUB_REPO}/contents/{archive_path}')
+    sha = existing_archive.get('sha')
+    body = {
+        'message': f'Archive {today}',
+        'content': base64.b64encode(content.encode()).decode(),
+    }
+    if sha:
+        body['sha'] = sha
+    result = api('PUT', f'/repos/{GITHUB_USERNAME}/{GITHUB_REPO}/contents/{archive_path}', body)
+    if 'content' in result:
+        print(f'  Uploaded {archive_path}')
+    else:
+        print(f'  Archive upload: {result.get("message")}')
 
 # ── Main ───────────────────────────────────────────────────────────────────────
 
@@ -444,10 +509,13 @@ async def main():
         print('ERROR: AUCTIONCOM_EMAIL and AUCTIONCOM_PASSWORD must be set in .env')
         sys.exit(1)
 
+    # Use headless=True in CI (no display), headless=False locally for debugging
+    headless = os.getenv('CI', '') == 'true' or os.getenv('HEADLESS', '').lower() in ('1', 'true')
+
     async with async_playwright() as p:
         browser = await p.chromium.launch(
-            headless=False,  # visible so we can see what happens / solve CAPTCHA if needed
-            args=['--no-sandbox']
+            headless=headless,
+            args=['--no-sandbox', '--disable-dev-shm-usage'],
         )
         context = await browser.new_context(
             viewport={'width': 1280, 'height': 800},
@@ -464,7 +532,8 @@ async def main():
         auctions = await scrape_all_listings(page)
         await browser.close()
 
-    save_output(auctions)
+    content = save_output(auctions)
+    push_to_github(content)
     print('Done.')
 
 if __name__ == '__main__':
