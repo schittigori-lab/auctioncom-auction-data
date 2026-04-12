@@ -306,17 +306,24 @@ def parse_gql_asset(item: dict) -> dict | None:
         # Don't show 0 for beds
         beds  = '' if beds == '0' else beds
 
-        # Auction date / time
+        # Auction date / time — timestamps are UTC, convert to Eastern
         auction = item.get('auction') or {}
         start_ts = (auction.get('visible_auction_start_date_time') or
                     auction.get('start_date') or '')
         auction_date = auction_time = ''
         if start_ts:
             try:
-                dt = datetime.fromisoformat(start_ts.replace('Z', '+00:00'))
-                auction_date = dt.strftime('%Y-%m-%d')
-                h = dt.hour
-                auction_time = f'{h % 12 or 12}:{dt.strftime("%M")} {"AM" if h < 12 else "PM"}' if h else '10:00 AM'
+                from datetime import timezone
+                dt_utc = datetime.fromisoformat(start_ts.replace('Z', '+00:00'))
+                # Maryland auctions — Eastern time (EDT=UTC-4, EST=UTC-5)
+                # April–October: EDT (UTC-4); Nov–March: EST (UTC-5)
+                month = dt_utc.month
+                offset = timedelta(hours=-4 if 3 <= month <= 11 else -5)
+                dt_et = dt_utc + offset
+                auction_date = dt_et.strftime('%Y-%m-%d')
+                h = dt_et.hour
+                m = dt_et.minute
+                auction_time = f'{h % 12 or 12}:{str(m).zfill(2)} {"AM" if h < 12 else "PM"}'
             except:
                 auction_date = start_ts[:10]
 
@@ -336,6 +343,14 @@ def parse_gql_asset(item: dict) -> dict | None:
                         opening_bid = f'${int(val):,}'
                     break
 
+        # Bid deposit — from selling_method configuration
+        bid_deposit = ''
+        sm = item.get('selling_method') or {}
+        cfg = sm.get('_alias_LiveAuctionSegment__configuration') or {}
+        deposit_rule = cfg.get('state_deposit_rule', '')
+        if deposit_rule:
+            bid_deposit = f'{deposit_rule} at sale'
+
         return {
             'id':               f'auctioncom-{prop_id}',
             'property_address': full_address,
@@ -343,7 +358,7 @@ def parse_gql_asset(item: dict) -> dict | None:
             'auction_time':     auction_time or '10:00 AM',
             'auction_location': 'Auction.com Online',
             'opening_bid':      opening_bid,
-            'bid_deposit':      '',
+            'bid_deposit':      bid_deposit,
             'beds':             beds,
             'baths':            baths,
             'sqft':             sqft,
