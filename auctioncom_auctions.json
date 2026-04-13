@@ -1,23 +1,6 @@
 {
-  "last_updated": "2026-04-13T16:46:56Z",
+  "last_updated": "2026-04-13T23:31:23Z",
   "auctions": [
-    {
-      "id": "auctioncom-2003899",
-      "property_address": "630 Wye Oak Dr, Fruitland, MD 21826",
-      "auction_date": "2026-04-13",
-      "auction_time": "1:00 PM",
-      "auction_location": "Wicomico County Courthouse, Salisbury, MD",
-      "opening_bid": "$231,587",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "2.5",
-      "sqft": "1280",
-      "county": "Wicomico",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/630-wye-oak-dr-fruitland-md-2003899"
-    },
     {
       "id": "auctioncom-1983518",
       "property_address": "319 Geronimo Rd, Lusby, MD 20657",
@@ -68,23 +51,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/5206-mapleshade-ln-w-uppr-marlboro-md-1988990"
-    },
-    {
-      "id": "auctioncom-1989049",
-      "property_address": "344 Majestic Ln, Prince Frederick, MD 20678",
-      "auction_date": "2026-04-13",
-      "auction_time": "9:00 AM",
-      "auction_location": "Calvert County Courthouse, Prince Frederick, MD",
-      "opening_bid": "$521,352",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "2.5",
-      "sqft": "2225",
-      "county": "Calvert",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/344-majestic-ln-prince-frederick-md-1989049"
     },
     {
       "id": "auctioncom-2011235",
@@ -289,23 +255,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/910-james-ct-salisbury-md-2006632"
-    },
-    {
-      "id": "auctioncom-2007021",
-      "property_address": "5806 Darlene Drive, Clinton, MD 20735",
-      "auction_date": "2026-04-14",
-      "auction_time": "11:00 AM",
-      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
-      "opening_bid": "$393,558",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "2",
-      "sqft": "924",
-      "county": "Prince George's",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/5806-darlene-dr-clinton-md-2007021"
     },
     {
       "id": "auctioncom-2007264",
@@ -1005,23 +954,6 @@
       "detail_url": "https://www.auction.com/details/15406-lady-lauren-ln-brandywine-md-2026606"
     },
     {
-      "id": "auctioncom-2019098",
-      "property_address": "1300 Minnesota Way, Upper Marlboro, MD 20774",
-      "auction_date": "2026-04-21",
-      "auction_time": "10:40 AM",
-      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
-      "opening_bid": "$555,681",
-      "bid_deposit": "",
-      "beds": "4",
-      "baths": "2.5",
-      "sqft": "2128",
-      "county": "Prince George's",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/1300-minnesota-way-upper-marlboro-md-2019098"
-    },
-    {
       "id": "auctioncom-2018357",
       "property_address": "2 Hickory Street, Fort Washington, MD 20744",
       "auction_date": "2026-04-21",
@@ -1156,23 +1088,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/301-e-walnut-st-delmar-md-2016179"
-    },
-    {
-      "id": "auctioncom-2017069",
-      "property_address": "3458 Newport Ave, Annapolis, MD 21403",
-      "auction_date": "2026-04-21",
-      "auction_time": "9:00 AM",
-      "auction_location": "Anne Arundel County Courthouse, Annapolis, MD",
-      "opening_bid": "$494,835",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "1.5",
-      "sqft": "1242",
-      "county": "Anne Arundel",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/3458-newport-ave-annapolis-md-2017069"
     },
     {
       "id": "auctioncom-2019305",
@@ -2093,23 +2008,6 @@
       "detail_url": "https://www.auction.com/details/9944-perine-ln-baltimore-md-2017136"
     },
     {
-      "id": "auctioncom-2019178",
-      "property_address": "314 Whitaker Mill Rd, Fallston, MD 21047",
-      "auction_date": "2026-04-30",
-      "auction_time": "9:00 AM",
-      "auction_location": "Harford County Courthouse, Bel Air, MD",
-      "opening_bid": "$415,895",
-      "bid_deposit": "",
-      "beds": "2",
-      "baths": "1.5",
-      "sqft": "1594",
-      "county": "Harford",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/314-whitaker-mill-rd-fallston-md-2019178"
-    },
-    {
       "id": "auctioncom-2021201",
       "property_address": "929 North Olive Branch Court, Edgewood, MD 21040",
       "auction_date": "2026-04-30",
@@ -2142,23 +2040,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/28-chandelle-rd-middle-river-md-2025977"
-    },
-    {
-      "id": "auctioncom-2026163",
-      "property_address": "1102 Cooks Lane, Baltimore, MD 21229",
-      "auction_date": "2026-04-30",
-      "auction_time": "9:00 AM",
-      "auction_location": "Baltimore City Courthouse, Baltimore, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "1",
-      "sqft": "1024",
-      "county": "Baltimore City",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/1102-cooks-ln-baltimore-md-2026163"
     },
     {
       "id": "auctioncom-2026328",
@@ -2210,6 +2091,23 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/105-hammond-ave-reisterstown-md-2026837"
+    },
+    {
+      "id": "auctioncom-2040519",
+      "property_address": "615 Haven Pl, Edgewood, MD 21040",
+      "auction_date": "2026-04-30",
+      "auction_time": "9:00 AM",
+      "auction_location": "Harford County Courthouse, Bel Air, MD",
+      "opening_bid": "",
+      "bid_deposit": "",
+      "beds": "",
+      "baths": "1.5",
+      "sqft": "1898",
+      "county": "Harford",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/615-haven-pl-edgewood-md-2040519"
     },
     {
       "id": "auctioncom-1994524",
@@ -2431,23 +2329,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/420-esmond-pl-upper-marlboro-md-2026599"
-    },
-    {
-      "id": "auctioncom-2028625",
-      "property_address": "9516 51St Ave, College Park, MD 20740",
-      "auction_date": "2026-05-05",
-      "auction_time": "9:00 AM",
-      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
-      "opening_bid": "$441,186",
-      "bid_deposit": "",
-      "beds": "4",
-      "baths": "2",
-      "sqft": "888",
-      "county": "Prince George's",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/9516-51st-ave-college-park-md-2028625"
     },
     {
       "id": "auctioncom-2028701",
@@ -2790,6 +2671,23 @@
       "detail_url": "https://www.auction.com/details/2804-oakley-ave-baltimore-md-2039272"
     },
     {
+      "id": "auctioncom-2040281",
+      "property_address": "8303 Canning Terrace, Greenbelt, MD 20770",
+      "auction_date": "2026-05-19",
+      "auction_time": "10:46 AM",
+      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
+      "opening_bid": "$349,403",
+      "bid_deposit": "",
+      "beds": "",
+      "baths": "1.5",
+      "sqft": "1284",
+      "county": "Prince George's",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/8303-canning-ter-greenbelt-md-2040281"
+    },
+    {
       "id": "auctioncom-1971856",
       "property_address": "3611 Brehms Lane, Baltimore, MD 21213",
       "auction_date": "2026-04-28",
@@ -2856,6 +2754,23 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/4312-crisfield-hwy-crisfield-md-2030240"
+    },
+    {
+      "id": "auctioncom-2040656",
+      "property_address": "3458 Newport Ave, Annapolis, MD 21403",
+      "auction_date": "2026-04-28",
+      "auction_time": "9:00 AM",
+      "auction_location": "Anne Arundel County Courthouse, Annapolis, MD",
+      "opening_bid": "$494,835",
+      "bid_deposit": "",
+      "beds": "3",
+      "baths": "1.5",
+      "sqft": "1242",
+      "county": "Anne Arundel",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/3458-newport-ave-annapolis-md-2040656"
     }
   ]
 }
