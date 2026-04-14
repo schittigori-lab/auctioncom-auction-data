@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T16:47:23Z",
+  "last_updated": "2026-04-14T23:31:35Z",
   "auctions": [
     {
       "id": "auctioncom-1979841",
@@ -17,23 +17,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/8342-woodyard-rd-clinton-md-1979841"
-    },
-    {
-      "id": "auctioncom-2005317",
-      "property_address": "12112 College Pl, Princess Anne, MD 21853",
-      "auction_date": "2026-04-14",
-      "auction_time": "9:00 AM",
-      "auction_location": "Somerset County Courthouse, Princess Anne, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "1.5",
-      "sqft": "1152",
-      "county": "Somerset",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/12112-college-pl-princess-anne-md-2005317"
     },
     {
       "id": "auctioncom-1986881",
@@ -68,23 +51,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/1825-dutch-village-dr-hyattsville-md-1996790"
-    },
-    {
-      "id": "auctioncom-1982176",
-      "property_address": "2804 Lewis And Clark Avenue, Upper Marlboro, MD 20774",
-      "auction_date": "2026-04-14",
-      "auction_time": "11:04 AM",
-      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
-      "opening_bid": "$565,012",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "4",
-      "sqft": "1752",
-      "county": "Prince George's",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/2804-lewis-and-clark-ave-upper-marlboro-md-1982176"
     },
     {
       "id": "auctioncom-1982815",
@@ -2623,7 +2589,7 @@
       "id": "auctioncom-2021200",
       "property_address": "1124 Wedgewood Road, Baltimore, MD 21229",
       "auction_date": "2026-05-07",
-      "auction_time": "9:00 AM",
+      "auction_time": "12:15 PM",
       "auction_location": "Baltimore County Courthouse, Towson, MD",
       "opening_bid": "",
       "bid_deposit": "",
@@ -2657,7 +2623,7 @@
       "id": "auctioncom-2031607",
       "property_address": "208 Ragan Road, Conowingo, MD 21918",
       "auction_date": "2026-05-07",
-      "auction_time": "9:00 AM",
+      "auction_time": "2:20 PM",
       "auction_location": "Cecil County Courthouse, Elkton, MD",
       "opening_bid": "$366,103",
       "bid_deposit": "",
@@ -2674,7 +2640,7 @@
       "id": "auctioncom-2033070",
       "property_address": "2106 North Longwood Street, Baltimore, MD 21216",
       "auction_date": "2026-05-07",
-      "auction_time": "9:00 AM",
+      "auction_time": "9:56 AM",
       "auction_location": "Baltimore City Courthouse, Baltimore, MD",
       "opening_bid": "",
       "bid_deposit": "",
@@ -2773,6 +2739,23 @@
       "detail_url": "https://www.auction.com/details/2804-oakley-ave-baltimore-md-2039272"
     },
     {
+      "id": "auctioncom-2041820",
+      "property_address": "2 Hemlock Ct, Cockeysville, MD 21030",
+      "auction_date": "2026-05-14",
+      "auction_time": "9:00 AM",
+      "auction_location": "Baltimore County Courthouse, Towson, MD",
+      "opening_bid": "",
+      "bid_deposit": "",
+      "beds": "",
+      "baths": "2.5",
+      "sqft": "3485",
+      "county": "Baltimore",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/2-hemlock-ct-cockeysville-md-2041820"
+    },
+    {
       "id": "auctioncom-2040281",
       "property_address": "8303 Canning Terrace, Greenbelt, MD 20770",
       "auction_date": "2026-05-19",
@@ -2788,6 +2771,23 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/8303-canning-ter-greenbelt-md-2040281"
+    },
+    {
+      "id": "auctioncom-2041821",
+      "property_address": "2416 Grange Hall Ct, Fort Washington, MD 20744",
+      "auction_date": "2026-05-19",
+      "auction_time": "9:00 AM",
+      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
+      "opening_bid": "",
+      "bid_deposit": "",
+      "beds": "",
+      "baths": "2.5",
+      "sqft": "1430",
+      "county": "Prince George's",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/2416-grange-hall-ct-fort-washington-md-2041821"
     },
     {
       "id": "auctioncom-1971856",
