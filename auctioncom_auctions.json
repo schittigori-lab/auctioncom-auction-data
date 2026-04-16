@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T17:54:48Z",
+  "last_updated": "2026-04-16T23:26:41Z",
   "auctions": [
     {
       "id": "auctioncom-2010846",
@@ -425,23 +425,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/1520-chester-town-cir-annapolis-md-1984682"
-    },
-    {
-      "id": "auctioncom-1998715",
-      "property_address": "6214 Flamingo Dr, Glen Burnie, MD 21060",
-      "auction_date": "2026-04-21",
-      "auction_time": "9:00 AM",
-      "auction_location": "Anne Arundel County Courthouse, Annapolis, MD",
-      "opening_bid": "$408,356",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "2.5",
-      "sqft": "2040",
-      "county": "Anne Arundel",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/6214-flamingo-dr-glen-burnie-md-1998715"
     },
     {
       "id": "auctioncom-2000141",
@@ -2349,7 +2332,7 @@
     },
     {
       "id": "auctioncom-2041820",
-      "property_address": "2 Hemlock Ct, Cockeysville, MD 21030",
+      "property_address": "2 Hemlock Court, Cockeysville, MD 21030",
       "auction_date": "2026-05-14",
       "auction_time": "9:00 AM",
       "auction_location": "Baltimore County Courthouse, Towson, MD",
@@ -2400,7 +2383,7 @@
     },
     {
       "id": "auctioncom-2041821",
-      "property_address": "2416 Grange Hall Ct, Fort Washington, MD 20744",
+      "property_address": "2416 Grange Hall Court, Fort Washington, MD 20744",
       "auction_date": "2026-05-19",
       "auction_time": "9:00 AM",
       "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
