@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T16:17:08Z",
+  "last_updated": "2026-04-17T23:11:03Z",
   "auctions": [
     {
       "id": "auctioncom-2018347",
@@ -1753,6 +1753,23 @@
       "detail_url": "https://www.auction.com/details/2127-keating-st-temple-hills-md-2032210"
     },
     {
+      "id": "auctioncom-2045895",
+      "property_address": "8102 Ridgely Oak Road, Parkville, MD 21234",
+      "auction_date": "2026-05-06",
+      "auction_time": "9:00 AM",
+      "auction_location": "Baltimore County Courthouse, Towson, MD",
+      "opening_bid": "",
+      "bid_deposit": "",
+      "beds": "",
+      "baths": "",
+      "sqft": "",
+      "county": "Baltimore",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/8102-ridgely-oak-rd-parkville-md-2045895"
+    },
+    {
       "id": "auctioncom-1983498",
       "property_address": "2853 Joseph Ave, Baltimore, MD 21225",
       "auction_date": "2026-05-07",
@@ -2183,7 +2200,7 @@
       "auction_date": "2026-05-19",
       "auction_time": "11:26 AM",
       "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
-      "opening_bid": "$635,688",
+      "opening_bid": "$621,482",
       "bid_deposit": "",
       "beds": "",
       "baths": "4",
@@ -2217,7 +2234,7 @@
       "auction_date": "2026-05-21",
       "auction_time": "9:00 AM",
       "auction_location": "Baltimore County Courthouse, Towson, MD",
-      "opening_bid": "",
+      "opening_bid": "$322,994",
       "bid_deposit": "",
       "beds": "",
       "baths": "2.5",
