@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T16:45:49Z",
+  "last_updated": "2026-04-20T23:29:11Z",
   "auctions": [
     {
       "id": "auctioncom-1998048",
@@ -2178,23 +2178,6 @@
       "detail_url": "https://www.auction.com/details/7901-powhatan-st-new-carrollton-md-2023899"
     },
     {
-      "id": "auctioncom-2033833",
-      "property_address": "8401 Cahill Court, Clinton, MD 20735",
-      "auction_date": "2026-05-12",
-      "auction_time": "11:38 AM",
-      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
-      "opening_bid": "$624,780",
-      "bid_deposit": "",
-      "beds": "4",
-      "baths": "3.5",
-      "sqft": "2960",
-      "county": "Prince George's",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/8401-cahill-ct-clinton-md-2033833"
-    },
-    {
       "id": "auctioncom-2038907",
       "property_address": "12503 Carland Place, Laurel, MD 20708",
       "auction_date": "2026-05-12",
@@ -2210,6 +2193,23 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/12503-carland-pl-laurel-md-2038907"
+    },
+    {
+      "id": "auctioncom-2033833",
+      "property_address": "8401 Cahill Court, Clinton, MD 20735",
+      "auction_date": "2026-05-12",
+      "auction_time": "11:38 AM",
+      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
+      "opening_bid": "$624,780",
+      "bid_deposit": "",
+      "beds": "4",
+      "baths": "3.5",
+      "sqft": "2960",
+      "county": "Prince George's",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/8401-cahill-ct-clinton-md-2033833"
     },
     {
       "id": "auctioncom-2034797",
@@ -2788,6 +2788,23 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/46-turnbrook-ct-baltimore-md-2044410"
+    },
+    {
+      "id": "auctioncom-2047305",
+      "property_address": "10123 Prince Place Unit 204 10A, Upper Marlboro, MD 20774",
+      "auction_date": "2026-06-08",
+      "auction_time": "10:00 AM",
+      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
+      "opening_bid": "",
+      "bid_deposit": "",
+      "beds": "",
+      "baths": "",
+      "sqft": "787",
+      "county": "Prince George's",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/10123-prince-pl-upper-marlboro-md-2047305"
     },
     {
       "id": "auctioncom-1971856",
