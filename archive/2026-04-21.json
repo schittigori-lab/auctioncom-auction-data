@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T16:39:12Z",
+  "last_updated": "2026-04-21T23:10:17Z",
   "auctions": [
     {
       "id": "auctioncom-2018361",
@@ -1975,9 +1975,9 @@
     },
     {
       "id": "auctioncom-2042880",
-      "property_address": "5633 Eucalyptus St, Saint Leonard, MD 20685",
+      "property_address": "5633 Eucalyptus Street, Saint Leonard, MD 20685",
       "auction_date": "2026-05-11",
-      "auction_time": "9:00 AM",
+      "auction_time": "2:15 PM",
       "auction_location": "Calvert County Courthouse, Prince Frederick, MD",
       "opening_bid": "$398,847",
       "bid_deposit": "",
@@ -2008,23 +2008,6 @@
       "detail_url": "https://www.auction.com/details/7901-powhatan-st-new-carrollton-md-2023899"
     },
     {
-      "id": "auctioncom-2033833",
-      "property_address": "8401 Cahill Court, Clinton, MD 20735",
-      "auction_date": "2026-05-12",
-      "auction_time": "11:38 AM",
-      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
-      "opening_bid": "$624,780",
-      "bid_deposit": "",
-      "beds": "4",
-      "baths": "3.5",
-      "sqft": "2960",
-      "county": "Prince George's",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/8401-cahill-ct-clinton-md-2033833"
-    },
-    {
       "id": "auctioncom-2038907",
       "property_address": "12503 Carland Place, Laurel, MD 20708",
       "auction_date": "2026-05-12",
@@ -2040,6 +2023,23 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/12503-carland-pl-laurel-md-2038907"
+    },
+    {
+      "id": "auctioncom-2033833",
+      "property_address": "8401 Cahill Court, Clinton, MD 20735",
+      "auction_date": "2026-05-12",
+      "auction_time": "11:38 AM",
+      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
+      "opening_bid": "$624,780",
+      "bid_deposit": "",
+      "beds": "4",
+      "baths": "3.5",
+      "sqft": "2960",
+      "county": "Prince George's",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/8401-cahill-ct-clinton-md-2033833"
     },
     {
       "id": "auctioncom-2034797",
@@ -2489,7 +2489,7 @@
       "auction_date": "2026-05-13",
       "auction_time": "9:00 AM",
       "auction_location": "Montgomery County Courthouse, Rockville, MD",
-      "opening_bid": "$759,129",
+      "opening_bid": "$759,004",
       "bid_deposit": "",
       "beds": "2",
       "baths": "1",
@@ -2807,6 +2807,23 @@
       "detail_url": "https://www.auction.com/details/2416-grange-hall-ct-fort-washington-md-2041821"
     },
     {
+      "id": "auctioncom-2048375",
+      "property_address": "3824 Ferndale Ave, Baltimore, MD 21207",
+      "auction_date": "2026-05-20",
+      "auction_time": "9:00 AM",
+      "auction_location": "Baltimore County Courthouse, Towson, MD",
+      "opening_bid": "",
+      "bid_deposit": "",
+      "beds": "",
+      "baths": "1",
+      "sqft": "1362",
+      "county": "Baltimore",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/3824-ferndale-ave-baltimore-md-2048375"
+    },
+    {
       "id": "auctioncom-2044410",
       "property_address": "46 Turnbrook Court, Baltimore, MD 21234",
       "auction_date": "2026-05-21",
@@ -2829,7 +2846,7 @@
       "auction_date": "2026-06-08",
       "auction_time": "10:00 AM",
       "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
-      "opening_bid": "",
+      "opening_bid": "$124,393",
       "bid_deposit": "",
       "beds": "1",
       "baths": "2",
