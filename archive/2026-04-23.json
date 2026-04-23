@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23T17:56:21Z",
+  "last_updated": "2026-04-23T23:32:46Z",
   "auctions": [
     {
       "id": "auctioncom-1999996",
@@ -971,6 +971,23 @@
       "detail_url": "https://www.auction.com/details/1261-sugar-maple-dr-marriottsville-md-2034030"
     },
     {
+      "id": "auctioncom-2045895",
+      "property_address": "8102 Ridgely Oak Road, Parkville, MD 21234",
+      "auction_date": "2026-05-06",
+      "auction_time": "11:45 AM",
+      "auction_location": "Baltimore County Courthouse, Towson, MD",
+      "opening_bid": "$329,391",
+      "bid_deposit": "",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "2244",
+      "county": "Baltimore",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/8102-ridgely-oak-rd-parkville-md-2045895"
+    },
+    {
       "id": "auctioncom-2039694",
       "property_address": "14495 Forest Drive, Newburg, MD 20664",
       "auction_date": "2026-05-06",
@@ -1139,23 +1156,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/2127-keating-st-temple-hills-md-2032210"
-    },
-    {
-      "id": "auctioncom-2045895",
-      "property_address": "8102 Ridgely Oak Road, Parkville, MD 21234",
-      "auction_date": "2026-05-06",
-      "auction_time": "11:45 AM",
-      "auction_location": "Baltimore County Courthouse, Towson, MD",
-      "opening_bid": "$329,391",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "2.5",
-      "sqft": "2244",
-      "county": "Baltimore",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/8102-ridgely-oak-rd-parkville-md-2045895"
     },
     {
       "id": "auctioncom-1983498",
@@ -2550,6 +2550,23 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/3458-newport-ave-annapolis-md-2040656"
+    },
+    {
+      "id": "auctioncom-2051877",
+      "property_address": "9003 Ballybunion Court, Pasadena, MD 21122",
+      "auction_date": "2024-02-06",
+      "auction_time": "9:15 AM",
+      "auction_location": "Anne Arundel County Courthouse, Annapolis, MD",
+      "opening_bid": "",
+      "bid_deposit": "",
+      "beds": "4",
+      "baths": "4",
+      "sqft": "6164",
+      "county": "Anne Arundel",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/9003-ballybunion-ct-pasadena-md-2051877"
     }
   ]
 }
