@@ -1,74 +1,6 @@
 {
-  "last_updated": "2026-04-23T23:32:46Z",
+  "last_updated": "2026-04-24T16:15:03Z",
   "auctions": [
-    {
-      "id": "auctioncom-1999996",
-      "property_address": "737 Winterfield Ct, Bel Air, MD 21015",
-      "auction_date": "2026-04-23",
-      "auction_time": "9:00 AM",
-      "auction_location": "Harford County Courthouse, Bel Air, MD",
-      "opening_bid": "$876,317",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "2.5",
-      "sqft": "5429",
-      "county": "Harford",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/737-winterfield-ct-bel-air-md-1999996"
-    },
-    {
-      "id": "auctioncom-2005724",
-      "property_address": "808 Argonne Dr, Baltimore, MD 21218",
-      "auction_date": "2026-04-23",
-      "auction_time": "9:00 AM",
-      "auction_location": "Baltimore City Courthouse, Baltimore, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "1",
-      "sqft": "1240",
-      "county": "Baltimore City",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/808-argonne-dr-baltimore-md-2005724"
-    },
-    {
-      "id": "auctioncom-2014771",
-      "property_address": "1614 Dundalk Avenue, Baltimore, MD 21222",
-      "auction_date": "2026-04-23",
-      "auction_time": "10:00 AM",
-      "auction_location": "Baltimore City Courthouse, Baltimore, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "1",
-      "sqft": "1024",
-      "county": "Baltimore City",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/1614-dundalk-ave-baltimore-md-2014771"
-    },
-    {
-      "id": "auctioncom-2019068",
-      "property_address": "3204 Old Post Drive, Unit 8, Baltimore, MD 21208",
-      "auction_date": "2026-04-23",
-      "auction_time": "12:05 PM",
-      "auction_location": "Baltimore County Courthouse, Towson, MD",
-      "opening_bid": "$211,266",
-      "bid_deposit": "",
-      "beds": "2",
-      "baths": "2",
-      "sqft": "1246",
-      "county": "Baltimore",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/3204-old-post-dr-baltimore-md-2019068"
-    },
     {
       "id": "auctioncom-2000161",
       "property_address": "9142 Bethel Road, Frederick, MD 21702",
@@ -2450,6 +2382,23 @@
       "detail_url": "https://www.auction.com/details/8780-rose-ln-jessup-md-2050785"
     },
     {
+      "id": "auctioncom-2052168",
+      "property_address": "20428 Downes Road, Parkton, MD 21120",
+      "auction_date": "2026-05-28",
+      "auction_time": "11:59 AM",
+      "auction_location": "Baltimore County Courthouse, Towson, MD",
+      "opening_bid": "",
+      "bid_deposit": "",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "2875",
+      "county": "Baltimore",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/20428-downes-rd-parkton-md-2052168"
+    },
+    {
       "id": "auctioncom-2047305",
       "property_address": "10123 Prince Place Unit 204 10A, Upper Marlboro, MD 20774",
       "auction_date": "2026-06-08",
@@ -2550,23 +2499,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/3458-newport-ave-annapolis-md-2040656"
-    },
-    {
-      "id": "auctioncom-2051877",
-      "property_address": "9003 Ballybunion Court, Pasadena, MD 21122",
-      "auction_date": "2024-02-06",
-      "auction_time": "9:15 AM",
-      "auction_location": "Anne Arundel County Courthouse, Annapolis, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "4",
-      "baths": "4",
-      "sqft": "6164",
-      "county": "Anne Arundel",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/9003-ballybunion-ct-pasadena-md-2051877"
     }
   ]
 }
