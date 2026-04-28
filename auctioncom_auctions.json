@@ -1,23 +1,6 @@
 {
-  "last_updated": "2026-04-27T17:51:20Z",
+  "last_updated": "2026-04-28T00:07:36Z",
   "auctions": [
-    {
-      "id": "auctioncom-1997216",
-      "property_address": "26922 Mcleyland Terrace, Salisbury, MD 21801",
-      "auction_date": "2026-04-27",
-      "auction_time": "1:15 PM",
-      "auction_location": "Wicomico County Courthouse, Salisbury, MD",
-      "opening_bid": "$469,504",
-      "bid_deposit": "",
-      "beds": "4",
-      "baths": "2.5",
-      "sqft": "2660",
-      "county": "Wicomico",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/26922-mcleyland-ter-salisbury-md-1997216"
-    },
     {
       "id": "auctioncom-2002447",
       "property_address": "341 Cayuse Cir, Lusby, MD 20657",
@@ -646,23 +629,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/13348-moonlight-trail-dr-silver-spring-md-2020658"
-    },
-    {
-      "id": "auctioncom-2030241",
-      "property_address": "1917 Taylor Avenue, Fort Washington, MD 20744",
-      "auction_date": "2026-05-05",
-      "auction_time": "11:00 AM",
-      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
-      "opening_bid": "$480,419",
-      "bid_deposit": "",
-      "beds": "5",
-      "baths": "3.5",
-      "sqft": "2144",
-      "county": "Prince George's",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/1917-taylor-ave-fort-washington-md-2030241"
     },
     {
       "id": "auctioncom-2007337",
