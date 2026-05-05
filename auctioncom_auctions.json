@@ -1,40 +1,6 @@
 {
-  "last_updated": "2026-05-04T18:06:11Z",
+  "last_updated": "2026-05-05T00:11:23Z",
   "auctions": [
-    {
-      "id": "auctioncom-2025120",
-      "property_address": "15650 Prince Frederick Roa, Hughesville, MD 20637",
-      "auction_date": "2026-05-04",
-      "auction_time": "9:00 AM",
-      "auction_location": "Charles County Courthouse, La Plata, MD",
-      "opening_bid": "$294,344",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "1",
-      "sqft": "924",
-      "county": "Charles",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/15650-prince-frederick-rd-hughesville-md-2025120"
-    },
-    {
-      "id": "auctioncom-2029308",
-      "property_address": "11318 Wildmeadows Street, Waldorf, MD 20601",
-      "auction_date": "2026-05-04",
-      "auction_time": "9:00 AM",
-      "auction_location": "Charles County Courthouse, La Plata, MD",
-      "opening_bid": "$502,341",
-      "bid_deposit": "",
-      "beds": "4",
-      "baths": "2.5",
-      "sqft": "2310",
-      "county": "Charles",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/11318-wildmeadows-st-waldorf-md-2029308"
-    },
     {
       "id": "auctioncom-2020658",
       "property_address": "13348 Moonlight Trail Dr, Silver Spring, MD 20906",
@@ -2807,6 +2773,23 @@
       "detail_url": "https://www.auction.com/details/10123-prince-pl-upper-marlboro-md-2047305"
     },
     {
+      "id": "auctioncom-2061023",
+      "property_address": "3317 Sutton Ct, Manchester, MD 21102",
+      "auction_date": "2026-06-10",
+      "auction_time": "9:00 AM",
+      "auction_location": "Carroll County Courthouse, Westminster, MD",
+      "opening_bid": "",
+      "bid_deposit": "",
+      "beds": "",
+      "baths": "1",
+      "sqft": "1120",
+      "county": "Carroll",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/3317-sutton-ct-manchester-md-2061023"
+    },
+    {
       "id": "auctioncom-2029190",
       "property_address": "5602 Purdue Avenue, Baltimore, MD 21239",
       "auction_date": "2026-05-26",
@@ -2839,6 +2822,40 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/4312-crisfield-hwy-crisfield-md-2030240"
+    },
+    {
+      "id": "auctioncom-2025120",
+      "property_address": "15650 Prince Frederick Roa, Hughesville, MD 20637",
+      "auction_date": "2026-05-04",
+      "auction_time": "9:00 AM",
+      "auction_location": "Charles County Courthouse, La Plata, MD",
+      "opening_bid": "$294,344",
+      "bid_deposit": "",
+      "beds": "3",
+      "baths": "1",
+      "sqft": "924",
+      "county": "Charles",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/15650-prince-frederick-rd-hughesville-md-2025120"
+    },
+    {
+      "id": "auctioncom-2029308",
+      "property_address": "11318 Wildmeadows Street, Waldorf, MD 20601",
+      "auction_date": "2026-05-04",
+      "auction_time": "9:00 AM",
+      "auction_location": "Charles County Courthouse, La Plata, MD",
+      "opening_bid": "$502,341",
+      "bid_deposit": "",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "2310",
+      "county": "Charles",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/11318-wildmeadows-st-waldorf-md-2029308"
     }
   ]
 }
