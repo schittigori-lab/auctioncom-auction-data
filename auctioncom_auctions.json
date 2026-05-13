@@ -1,23 +1,6 @@
 {
-  "last_updated": "2026-05-13T15:53:54Z",
+  "last_updated": "2026-05-13T22:16:46Z",
   "auctions": [
-    {
-      "id": "auctioncom-2019404",
-      "property_address": "927 Hidden Marsh St, Gaithersburg, MD 20877",
-      "auction_date": "2026-05-13",
-      "auction_time": "1:00 PM",
-      "auction_location": "Montgomery County Courthouse, Rockville, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "",
-      "sqft": "",
-      "county": "Montgomery",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/927-hidden-marsh-st-gaithersburg-md-2019404"
-    },
     {
       "id": "auctioncom-2020139",
       "property_address": "3908 Lawrence Avenue, Kensington, MD 20895",
@@ -51,23 +34,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/3687-clydesdale-road-way-reisterstown-md-2011774"
-    },
-    {
-      "id": "auctioncom-2014901",
-      "property_address": "713 Virginia Avenue, Cumberland, MD 21502",
-      "auction_date": "2026-05-13",
-      "auction_time": "9:00 AM",
-      "auction_location": "Allegany County Courthouse, Cumberland, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "1",
-      "sqft": "1176",
-      "county": "Allegany",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/713-virginia-ave-cumberland-md-2014901"
     },
     {
       "id": "auctioncom-2014904",
@@ -444,23 +410,6 @@
       "detail_url": "https://www.auction.com/details/683-seawave-ct-baltimore-md-2042774"
     },
     {
-      "id": "auctioncom-2066171",
-      "property_address": "1217 Vly Leaf Ct, Edgewood, MD 21040",
-      "auction_date": "2026-05-14",
-      "auction_time": "9:00 AM",
-      "auction_location": "Harford County Courthouse, Bel Air, MD",
-      "opening_bid": "$256,551",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "1.5",
-      "sqft": "1595",
-      "county": "Harford",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/1217-vly-leaf-ct-edgewood-md-2066171"
-    },
-    {
       "id": "auctioncom-2040406",
       "property_address": "244 Knoxville Rd, Knoxville, MD 21758",
       "auction_date": "2026-05-15",
@@ -629,23 +578,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/6210-douglas-cir-waldorf-md-2017501"
-    },
-    {
-      "id": "auctioncom-2018921",
-      "property_address": "4656 Kendrick Rd, Suitland, MD 20746",
-      "auction_date": "2026-05-19",
-      "auction_time": "9:00 AM",
-      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
-      "opening_bid": "$336,393",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "1.5",
-      "sqft": "1089",
-      "county": "Prince George's",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/4656-kendrick-rd-suitland-md-2018921"
     },
     {
       "id": "auctioncom-2030778",
@@ -1311,23 +1243,6 @@
       "detail_url": "https://www.auction.com/details/11833-steam-mill-hill-rd-whaleyville-md-2052489"
     },
     {
-      "id": "auctioncom-2063026",
-      "property_address": "331 Clyde Jones Road, Sunderland, MD 20689",
-      "auction_date": "2026-05-26",
-      "auction_time": "9:00 AM",
-      "auction_location": "Calvert County Courthouse, Prince Frederick, MD",
-      "opening_bid": "$504,757",
-      "bid_deposit": "",
-      "beds": "5",
-      "baths": "4.5",
-      "sqft": "2883",
-      "county": "Calvert",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/331-clyde-jones-rd-sunderland-md-2063026"
-    },
-    {
       "id": "auctioncom-2049961",
       "property_address": "17916 Overwood Dr, Olney, MD 20832",
       "auction_date": "2026-05-27",
@@ -1581,23 +1496,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/552-crossbridge-dr-westminster-md-2052575"
-    },
-    {
-      "id": "auctioncom-2067240",
-      "property_address": "8611 Wintergreen Ct Unit 406, Odenton, MD 21113",
-      "auction_date": "2026-05-27",
-      "auction_time": "9:00 AM",
-      "auction_location": "Anne Arundel County Courthouse, Annapolis, MD",
-      "opening_bid": "$419,659",
-      "bid_deposit": "",
-      "beds": "2",
-      "baths": "2",
-      "sqft": "1600",
-      "county": "Anne Arundel",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/8611-wintergreen-ct-odenton-md-2067240"
     },
     {
       "id": "auctioncom-2052177",
@@ -1923,21 +1821,21 @@
       "detail_url": "https://www.auction.com/details/108-cedar-dr-glen-burnie-md-2058191"
     },
     {
-      "id": "auctioncom-2033949",
-      "property_address": "134 Main St, Preston, MD 21655",
+      "id": "auctioncom-2069241",
+      "property_address": "331 Clyde Jones Road, Sunderland, MD 20689",
       "auction_date": "2026-06-02",
-      "auction_time": "10:00 AM",
-      "auction_location": "Caroline County Courthouse, Denton, MD",
-      "opening_bid": "$303,829",
+      "auction_time": "9:00 AM",
+      "auction_location": "Calvert County Courthouse, Prince Frederick, MD",
+      "opening_bid": "$504,757",
       "bid_deposit": "",
-      "beds": "4",
-      "baths": "2",
-      "sqft": "1980",
-      "county": "Caroline",
+      "beds": "5",
+      "baths": "4.5",
+      "sqft": "2883",
+      "county": "Calvert",
       "state": "MD",
       "source": "AUCTIONCOM",
       "status": "active",
-      "detail_url": "https://www.auction.com/details/134-main-st-preston-md-2033949"
+      "detail_url": "https://www.auction.com/details/331-clyde-jones-rd-sunderland-md-2069241"
     },
     {
       "id": "auctioncom-2041035",
