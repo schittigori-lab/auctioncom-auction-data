@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T15:20:20Z",
+  "last_updated": "2026-05-15T22:02:55Z",
   "auctions": [
     {
       "id": "auctioncom-2040406",
@@ -1056,6 +1056,23 @@
       "detail_url": "https://www.auction.com/details/552-crossbridge-dr-westminster-md-2052575"
     },
     {
+      "id": "auctioncom-2072582",
+      "property_address": "5946 E Boniwood Turn, Clinton, MD 20735",
+      "auction_date": "2026-05-27",
+      "auction_time": "9:00 AM",
+      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
+      "opening_bid": "",
+      "bid_deposit": "",
+      "beds": "",
+      "baths": "3",
+      "sqft": "1276",
+      "county": "Prince George's",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/5946-e-boniwood-turn-clinton-md-2072582"
+    },
+    {
       "id": "auctioncom-2052177",
       "property_address": "1410 North Bond Street, Baltimore, MD 21213",
       "auction_date": "2026-05-28",
@@ -1073,23 +1090,6 @@
       "detail_url": "https://www.auction.com/details/1410-n-bond-st-baltimore-md-2052177"
     },
     {
-      "id": "auctioncom-2038913",
-      "property_address": "8348 Streamwood Drive, Pikesville, MD 21208",
-      "auction_date": "2026-05-28",
-      "auction_time": "12:16 PM",
-      "auction_location": "Baltimore County Courthouse, Towson, MD",
-      "opening_bid": "$447,162",
-      "bid_deposit": "",
-      "beds": "4",
-      "baths": "2.5",
-      "sqft": "2134",
-      "county": "Baltimore",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/8348-streamwood-dr-pikesville-md-2038913"
-    },
-    {
       "id": "auctioncom-2040168",
       "property_address": "1872 Church Road, Baltimore Arta Dundalk, MD 21222",
       "auction_date": "2026-05-28",
@@ -1105,6 +1105,23 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/1872-church-rd-dundalk-md-2040168"
+    },
+    {
+      "id": "auctioncom-2038913",
+      "property_address": "8348 Streamwood Drive, Pikesville, MD 21208",
+      "auction_date": "2026-05-28",
+      "auction_time": "12:16 PM",
+      "auction_location": "Baltimore County Courthouse, Towson, MD",
+      "opening_bid": "$447,162",
+      "bid_deposit": "",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "2134",
+      "county": "Baltimore",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/8348-streamwood-dr-pikesville-md-2038913"
     },
     {
       "id": "auctioncom-2052635",
