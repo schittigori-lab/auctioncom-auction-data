@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T14:24:00Z",
+  "last_updated": "2026-05-16T21:54:33Z",
   "auctions": [
     {
       "id": "auctioncom-2042165",
@@ -1044,7 +1044,7 @@
       "auction_date": "2026-05-27",
       "auction_time": "9:00 AM",
       "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
-      "opening_bid": "",
+      "opening_bid": "$417,205",
       "bid_deposit": "",
       "beds": "3",
       "baths": "3",
