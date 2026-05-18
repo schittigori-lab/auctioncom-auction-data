@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T16:29:13Z",
+  "last_updated": "2026-05-18T22:06:16Z",
   "auctions": [
     {
       "id": "auctioncom-2042165",
@@ -1022,6 +1022,23 @@
       "detail_url": "https://www.auction.com/details/5946-e-boniwood-turn-clinton-md-2072582"
     },
     {
+      "id": "auctioncom-2073533",
+      "property_address": "8611 Wintergreen Ct Unit 406, Odenton, MD 21113",
+      "auction_date": "2026-05-27",
+      "auction_time": "9:00 AM",
+      "auction_location": "Anne Arundel County Courthouse, Annapolis, MD",
+      "opening_bid": "$419,659",
+      "bid_deposit": "",
+      "beds": "2",
+      "baths": "2",
+      "sqft": "1600",
+      "county": "Anne Arundel",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/8611-wintergreen-ct-odenton-md-2073533"
+    },
+    {
       "id": "auctioncom-2052177",
       "property_address": "1410 North Bond Street, Baltimore, MD 21213",
       "auction_date": "2026-05-28",
@@ -1923,23 +1940,6 @@
       "detail_url": "https://www.auction.com/details/1415-jeffers-rd-towson-md-2057829"
     },
     {
-      "id": "auctioncom-2058404",
-      "property_address": "822 Martin Rd, Baltimore, MD 21221",
-      "auction_date": "2026-06-04",
-      "auction_time": "9:00 AM",
-      "auction_location": "Baltimore County Courthouse, Towson, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "2",
-      "baths": "1.5",
-      "sqft": "1365",
-      "county": "Baltimore",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/822-martin-rd-baltimore-md-2058404"
-    },
-    {
       "id": "auctioncom-2060971",
       "property_address": "5888 Pimlico Road, Baltimore, MD 21209",
       "auction_date": "2026-06-04",
@@ -2091,23 +2091,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/308-gemini-ct-fort-washington-md-2033860"
-    },
-    {
-      "id": "auctioncom-2047195",
-      "property_address": "319 Geronimo Rd, Lusby, MD 20657",
-      "auction_date": "2026-06-08",
-      "auction_time": "9:00 AM",
-      "auction_location": "Calvert County Courthouse, Prince Frederick, MD",
-      "opening_bid": "$432,500",
-      "bid_deposit": "",
-      "beds": "4",
-      "baths": "2.5",
-      "sqft": "2604",
-      "county": "Calvert",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/lien-319-geronimo-rd-lusby-md-2047195"
     },
     {
       "id": "auctioncom-2048130",
