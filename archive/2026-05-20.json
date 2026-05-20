@@ -1,23 +1,6 @@
 {
-  "last_updated": "2026-05-20T16:29:14Z",
+  "last_updated": "2026-05-20T22:25:25Z",
   "auctions": [
-    {
-      "id": "auctioncom-2020572",
-      "property_address": "110 S Carrollton Avenue, Baltimore, MD 21223",
-      "auction_date": "2026-05-20",
-      "auction_time": "10:15 AM",
-      "auction_location": "Baltimore City Courthouse, Baltimore, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "2",
-      "sqft": "",
-      "county": "Baltimore City",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/110-s-carrollton-ave-baltimore-md-2020572"
-    },
     {
       "id": "auctioncom-2005533",
       "property_address": "8013 Duvall Avenue, Rosedale, MD 21237",
@@ -51,40 +34,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/257-trappe-rd-dundalk-md-2012041"
-    },
-    {
-      "id": "auctioncom-2004523",
-      "property_address": "1821 Eloise Lane, Edgewood, MD 21040",
-      "auction_date": "2026-05-20",
-      "auction_time": "2:30 PM",
-      "auction_location": "Harford County Courthouse, Bel Air, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "1.5",
-      "sqft": "1240",
-      "county": "Harford",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/1821-eloise-ln-edgewood-md-2004523"
-    },
-    {
-      "id": "auctioncom-2005907",
-      "property_address": "6 Painters Place Court, Unit 6, Owings Mills, MD 21117",
-      "auction_date": "2026-05-20",
-      "auction_time": "11:45 AM",
-      "auction_location": "Baltimore County Courthouse, Towson, MD",
-      "opening_bid": "$246,845",
-      "bid_deposit": "",
-      "beds": "2",
-      "baths": "1.5",
-      "sqft": "1024",
-      "county": "Baltimore",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/6-painters-place-ct-owings-mills-md-2005907"
     },
     {
       "id": "auctioncom-2020423",
@@ -1838,6 +1787,23 @@
       "detail_url": "https://www.auction.com/details/12207-quadrille-ln-bowie-md-2062240"
     },
     {
+      "id": "auctioncom-2076298",
+      "property_address": "12504 Ewell Ct, Beltsville, MD 20705",
+      "auction_date": "2026-06-08",
+      "auction_time": "9:00 AM",
+      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
+      "opening_bid": "",
+      "bid_deposit": "",
+      "beds": "",
+      "baths": "3.5",
+      "sqft": "3298",
+      "county": "Prince George's",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/12504-ewell-ct-beltsville-md-2076298"
+    },
+    {
       "id": "auctioncom-2053499",
       "property_address": "6429 Continental Dr, Glen Burnie, MD 21061",
       "auction_date": "2026-06-09",
@@ -2263,6 +2229,23 @@
       "detail_url": "https://www.auction.com/details/3317-sutton-ct-manchester-md-2061023"
     },
     {
+      "id": "auctioncom-2076205",
+      "property_address": "7142 Carroll Ave, Takoma Park, MD 20912",
+      "auction_date": "2026-06-10",
+      "auction_time": "9:00 AM",
+      "auction_location": "Montgomery County Courthouse, Rockville, MD",
+      "opening_bid": "",
+      "bid_deposit": "",
+      "beds": "",
+      "baths": "",
+      "sqft": "",
+      "county": "Montgomery",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/7142-carroll-ave-takoma-park-md-2076205"
+    },
+    {
       "id": "auctioncom-2067685",
       "property_address": "113 S Stricker St, Baltimore, MD 21223",
       "auction_date": "2026-06-11",
@@ -2297,23 +2280,6 @@
       "detail_url": "https://www.auction.com/details/3502-rhom-rd-baltimore-md-2067882"
     },
     {
-      "id": "auctioncom-2067884",
-      "property_address": "1806 Swansea Road, Baltimore, MD 21239",
-      "auction_date": "2026-06-11",
-      "auction_time": "11:59 AM",
-      "auction_location": "Baltimore City Courthouse, Baltimore, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "2",
-      "baths": "2",
-      "sqft": "1152",
-      "county": "Baltimore City",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/1806-swansea-rd-baltimore-md-2067884"
-    },
-    {
       "id": "auctioncom-2064397",
       "property_address": "9615 Brie Road, Randallstown, MD 21133",
       "auction_date": "2026-06-11",
@@ -2329,6 +2295,23 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/9615-brie-rd-randallstown-md-2064397"
+    },
+    {
+      "id": "auctioncom-2067884",
+      "property_address": "1806 Swansea Road, Baltimore, MD 21239",
+      "auction_date": "2026-06-11",
+      "auction_time": "11:59 AM",
+      "auction_location": "Baltimore City Courthouse, Baltimore, MD",
+      "opening_bid": "",
+      "bid_deposit": "",
+      "beds": "2",
+      "baths": "2",
+      "sqft": "1152",
+      "county": "Baltimore City",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/1806-swansea-rd-baltimore-md-2067884"
     },
     {
       "id": "auctioncom-2040177",
