@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T16:40:13Z",
+  "last_updated": "2026-05-27T22:43:49Z",
   "auctions": [
     {
       "id": "auctioncom-2049961",
@@ -34,23 +34,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/7915-darby-ln-severn-md-2047090"
-    },
-    {
-      "id": "auctioncom-2037524",
-      "property_address": "3008 Irma Court, Suitland, MD 20746",
-      "auction_date": "2026-05-27",
-      "auction_time": "11:19 AM",
-      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
-      "opening_bid": "$320,827",
-      "bid_deposit": "",
-      "beds": "2",
-      "baths": "3",
-      "sqft": "1909",
-      "county": "Prince George's",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/3008-irma-ct-suitland-md-2037524"
     },
     {
       "id": "auctioncom-2028378",
@@ -136,23 +119,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/13128-colton-ln-gaithersburg-md-2043163"
-    },
-    {
-      "id": "auctioncom-2045638",
-      "property_address": "2221 Houston Street, Suitland, MD 20746",
-      "auction_date": "2026-05-27",
-      "auction_time": "11:15 AM",
-      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
-      "opening_bid": "$324,092",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "1.5",
-      "sqft": "1432",
-      "county": "Prince George's",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/2221-houston-st-suitland-md-2045638"
     },
     {
       "id": "auctioncom-2052575",
@@ -1275,23 +1241,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/4012-w-cold-spring-ln-baltimore-md-2053491"
-    },
-    {
-      "id": "auctioncom-2056360",
-      "property_address": "5944 Etterbeek St, Ijamsville, MD 21754",
-      "auction_date": "2026-06-09",
-      "auction_time": "9:00 AM",
-      "auction_location": "Frederick County Courthouse, Frederick, MD",
-      "opening_bid": "$419,193",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "3",
-      "sqft": "1606",
-      "county": "Frederick",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/5944-etterbeek-st-ijamsville-md-2056360"
     },
     {
       "id": "auctioncom-2060236",
@@ -2567,6 +2516,57 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/1918-wilmington-ave-baltimore-md-2075107"
+    },
+    {
+      "id": "auctioncom-2081343",
+      "property_address": "21547 Pt Ct, Lexington Park, MD 20653",
+      "auction_date": "2026-06-30",
+      "auction_time": "9:00 AM",
+      "auction_location": "St. Mary's County Courthouse, Leonardtown, MD",
+      "opening_bid": "",
+      "bid_deposit": "",
+      "beds": "",
+      "baths": "",
+      "sqft": "",
+      "county": "St. Mary's",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/21547-point-ct-lexington-park-md-2081343"
+    },
+    {
+      "id": "auctioncom-2081317",
+      "property_address": "5303 Saint Georges Ave, Baltimore, MD 21212",
+      "auction_date": "2026-07-01",
+      "auction_time": "9:00 AM",
+      "auction_location": "Baltimore City Courthouse, Baltimore, MD",
+      "opening_bid": "",
+      "bid_deposit": "",
+      "beds": "",
+      "baths": "2.5",
+      "sqft": "2160",
+      "county": "Baltimore City",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/5303-saint-georges-ave-baltimore-md-2081317"
+    },
+    {
+      "id": "auctioncom-2081598",
+      "property_address": "2619 Molton Way, Windsor Mill, MD 21244",
+      "auction_date": "2026-07-01",
+      "auction_time": "9:00 AM",
+      "auction_location": "Baltimore County Courthouse, Towson, MD",
+      "opening_bid": "",
+      "bid_deposit": "",
+      "beds": "",
+      "baths": "1.5",
+      "sqft": "1040",
+      "county": "Baltimore",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/2619-molton-way-windsor-mill-md-2081598"
     }
   ]
 }
