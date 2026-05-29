@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T16:45:27Z",
+  "last_updated": "2026-05-29T22:39:18Z",
   "auctions": [
     {
       "id": "auctioncom-2038835",
@@ -791,7 +791,7 @@
       "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
       "opening_bid": "$774,523",
       "bid_deposit": "",
-      "beds": "",
+      "beds": "4",
       "baths": "3.5",
       "sqft": "3298",
       "county": "Prince George's",
@@ -1641,7 +1641,7 @@
       "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
       "opening_bid": "$991,362",
       "bid_deposit": "",
-      "beds": "",
+      "beds": "4",
       "baths": "3.5",
       "sqft": "4494",
       "county": "Prince George's",
@@ -1743,7 +1743,7 @@
       "auction_location": "Calvert County Courthouse, Prince Frederick, MD",
       "opening_bid": "$737,946",
       "bid_deposit": "",
-      "beds": "",
+      "beds": "4",
       "baths": "3",
       "sqft": "3098",
       "county": "Calvert",
