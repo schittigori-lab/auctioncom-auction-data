@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03T18:02:00Z",
+  "last_updated": "2026-06-03T23:07:16Z",
   "auctions": [
     {
       "id": "auctioncom-2044411",
@@ -136,23 +136,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/22669-old-rolling-rd-california-md-2038408"
-    },
-    {
-      "id": "auctioncom-2038709",
-      "property_address": "709 58Th Avenue, Fairmount Heights, MD 20743",
-      "auction_date": "2026-06-04",
-      "auction_time": "2:00 PM",
-      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
-      "opening_bid": "$425,980",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "3",
-      "sqft": "2241",
-      "county": "Prince George's",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/709-58th-ave-fairmount-heights-md-2038709"
     },
     {
       "id": "auctioncom-2033946",
@@ -2210,23 +2193,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/9606-toucan-dr-upper-marlboro-md-2076697"
-    },
-    {
-      "id": "auctioncom-2077100",
-      "property_address": "6100 Westin Court, Capitol Heights, MD 20743",
-      "auction_date": "2026-06-23",
-      "auction_time": "11:11 AM",
-      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
-      "opening_bid": "$675,668",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "3.5",
-      "sqft": "3080",
-      "county": "Prince George's",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/6100-westin-ct-capitol-heights-md-2077100"
     },
     {
       "id": "auctioncom-2078610",
