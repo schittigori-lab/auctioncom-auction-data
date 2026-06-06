@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T14:45:17Z",
+  "last_updated": "2026-06-06T22:06:15Z",
   "auctions": [
     {
       "id": "auctioncom-2046870",
@@ -444,23 +444,6 @@
       "detail_url": "https://www.auction.com/details/113-s-stricker-st-baltimore-md-2067685"
     },
     {
-      "id": "auctioncom-2064397",
-      "property_address": "9615 Brie Road, Randallstown, MD 21133",
-      "auction_date": "2026-06-11",
-      "auction_time": "12:47 PM",
-      "auction_location": "Baltimore County Courthouse, Towson, MD",
-      "opening_bid": "$379,055",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "1.5",
-      "sqft": "1527",
-      "county": "Baltimore",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/9615-brie-rd-randallstown-md-2064397"
-    },
-    {
       "id": "auctioncom-2067884",
       "property_address": "1806 Swansea Road, Baltimore, MD 21239",
       "auction_date": "2026-06-11",
@@ -476,6 +459,23 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/1806-swansea-rd-baltimore-md-2067884"
+    },
+    {
+      "id": "auctioncom-2064397",
+      "property_address": "9615 Brie Road, Randallstown, MD 21133",
+      "auction_date": "2026-06-11",
+      "auction_time": "12:47 PM",
+      "auction_location": "Baltimore County Courthouse, Towson, MD",
+      "opening_bid": "$379,055",
+      "bid_deposit": "",
+      "beds": "3",
+      "baths": "1.5",
+      "sqft": "1527",
+      "county": "Baltimore",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/9615-brie-rd-randallstown-md-2064397"
     },
     {
       "id": "auctioncom-2040177",
