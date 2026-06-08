@@ -1,23 +1,6 @@
 {
-  "last_updated": "2026-06-08T16:51:15Z",
+  "last_updated": "2026-06-08T22:42:19Z",
   "auctions": [
-    {
-      "id": "auctioncom-2046870",
-      "property_address": "7512 Resch Loop, Glen Burnie, MD 21061",
-      "auction_date": "2026-06-08",
-      "auction_time": "10:00 AM",
-      "auction_location": "Anne Arundel County Courthouse, Annapolis, MD",
-      "opening_bid": "$443,531",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "2.5",
-      "sqft": "2080",
-      "county": "Anne Arundel",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/7512-resch-loop-glen-burnie-md-2046870"
-    },
     {
       "id": "auctioncom-2047305",
       "property_address": "10123 Prince Place Unit 204 10A, Upper Marlboro, MD 20774",
@@ -51,23 +34,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/5008-paducah-rd-college-park-md-2061154"
-    },
-    {
-      "id": "auctioncom-2026982",
-      "property_address": "3913 26Th Ave, Temple Hills, MD 20748",
-      "auction_date": "2026-06-08",
-      "auction_time": "9:00 AM",
-      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
-      "opening_bid": "$141,958",
-      "bid_deposit": "",
-      "beds": "2",
-      "baths": "1",
-      "sqft": "768",
-      "county": "Prince George's",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/3913-26th-ave-temple-hills-md-2026982"
     },
     {
       "id": "auctioncom-2033860",
@@ -614,23 +580,6 @@
       "detail_url": "https://www.auction.com/details/767-yale-ave-baltimore-md-2056439"
     },
     {
-      "id": "auctioncom-2059447",
-      "property_address": "1465 Sussex Road, Essex, MD 21221",
-      "auction_date": "2026-06-11",
-      "auction_time": "9:00 AM",
-      "auction_location": "Baltimore County Courthouse, Towson, MD",
-      "opening_bid": "$256,255",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "1",
-      "sqft": "672",
-      "county": "Baltimore",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/1465-sussex-rd-essex-md-2059447"
-    },
-    {
       "id": "auctioncom-2060645",
       "property_address": "612 Tinker Road, Middle River, MD 21220",
       "auction_date": "2026-06-11",
@@ -835,23 +784,6 @@
       "detail_url": "https://www.auction.com/details/1244-guildford-rd-glen-burnie-md-2045532"
     },
     {
-      "id": "auctioncom-2059445",
-      "property_address": "14607 Dawn Court, Bowie, MD 20721",
-      "auction_date": "2026-06-16",
-      "auction_time": "9:00 AM",
-      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
-      "opening_bid": "$991,362",
-      "bid_deposit": "",
-      "beds": "4",
-      "baths": "3.5",
-      "sqft": "4494",
-      "county": "Prince George's",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/14607-dawn-ct-bowie-md-2059445"
-    },
-    {
       "id": "auctioncom-2059753",
       "property_address": "6214 Flamingo Dr, Glen Burnie, MD 21060",
       "auction_date": "2026-06-16",
@@ -1054,23 +986,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/1204-mazeland-dr-bel-air-md-2056372"
-    },
-    {
-      "id": "auctioncom-2035955",
-      "property_address": "739 N Central Avenue, Baltimore, MD 21202",
-      "auction_date": "2026-06-17",
-      "auction_time": "10:15 AM",
-      "auction_location": "Baltimore City Courthouse, Baltimore, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "",
-      "sqft": "999",
-      "county": "Baltimore City",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/739-n-central-ave-baltimore-md-2035955"
     },
     {
       "id": "auctioncom-2040721",
@@ -1981,7 +1896,7 @@
       "auction_location": "Baltimore County Courthouse, Towson, MD",
       "opening_bid": "$668,636",
       "bid_deposit": "",
-      "beds": "",
+      "beds": "5",
       "baths": "2.5",
       "sqft": "3670",
       "county": "Baltimore",
@@ -2474,7 +2389,7 @@
       "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
       "opening_bid": "$379,818",
       "bid_deposit": "",
-      "beds": "",
+      "beds": "3",
       "baths": "2",
       "sqft": "1238",
       "county": "Prince George's",
