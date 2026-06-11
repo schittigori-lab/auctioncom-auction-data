@@ -1,23 +1,6 @@
 {
-  "last_updated": "2026-06-11T16:57:41Z",
+  "last_updated": "2026-06-11T22:51:16Z",
   "auctions": [
-    {
-      "id": "auctioncom-2064397",
-      "property_address": "9615 Brie Road, Randallstown, MD 21133",
-      "auction_date": "2026-06-11",
-      "auction_time": "12:47 PM",
-      "auction_location": "Baltimore County Courthouse, Towson, MD",
-      "opening_bid": "$379,055",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "1.5",
-      "sqft": "1527",
-      "county": "Baltimore",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/9615-brie-rd-randallstown-md-2064397"
-    },
     {
       "id": "auctioncom-2040177",
       "property_address": "832 Arncliffe Road, Baltimore, MD 21221",
@@ -187,40 +170,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/1018-booth-st-baltimore-md-2064196"
-    },
-    {
-      "id": "auctioncom-2065697",
-      "property_address": "1109 North Stockton Street, Baltimore, MD 21217",
-      "auction_date": "2026-06-11",
-      "auction_time": "10:31 AM",
-      "auction_location": "Baltimore City Courthouse, Baltimore, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "",
-      "sqft": "1350",
-      "county": "Baltimore City",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/1109-n-stockton-st-baltimore-md-2065697"
-    },
-    {
-      "id": "auctioncom-2066654",
-      "property_address": "539 Terrapin Terrace, Joppa, MD 21085",
-      "auction_date": "2026-06-11",
-      "auction_time": "2:07 PM",
-      "auction_location": "Harford County Courthouse, Bel Air, MD",
-      "opening_bid": "$288,452",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "2.5",
-      "sqft": "2084",
-      "county": "Harford",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/539-terrapin-ter-joppa-md-2066654"
     },
     {
       "id": "auctioncom-2064400",
