@@ -1,23 +1,6 @@
 {
-  "last_updated": "2026-06-12T16:22:51Z",
+  "last_updated": "2026-06-12T22:26:45Z",
   "auctions": [
-    {
-      "id": "auctioncom-2064400",
-      "property_address": "9039 Sligo Creek Parkway, Unit 1802, Silver Spring, MD 20901",
-      "auction_date": "2026-06-12",
-      "auction_time": "2:24 PM",
-      "auction_location": "Montgomery County Courthouse, Rockville, MD",
-      "opening_bid": "$304,557",
-      "bid_deposit": "",
-      "beds": "2",
-      "baths": "1",
-      "sqft": "1172",
-      "county": "Montgomery",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/9039-sligo-creek-pkwy-silver-spring-md-2064400"
-    },
     {
       "id": "auctioncom-2056082",
       "property_address": "206 Westdale Drive, Waldorf, MD 20601",
@@ -136,23 +119,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/1244-guildford-rd-glen-burnie-md-2045532"
-    },
-    {
-      "id": "auctioncom-2060571",
-      "property_address": "4785 Dayton Place, Indian Head, MD 20640",
-      "auction_date": "2026-06-16",
-      "auction_time": "1:00 PM",
-      "auction_location": "Charles County Courthouse, La Plata, MD",
-      "opening_bid": "$416,077",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "2",
-      "sqft": "1440",
-      "county": "Charles",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/4785-dayton-pl-indian-head-md-2060571"
     },
     {
       "id": "auctioncom-2066658",
@@ -2244,6 +2210,23 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/4313-lakeview-dr-temple-hills-md-2085383"
+    },
+    {
+      "id": "auctioncom-2097328",
+      "property_address": "10009 Paxton Rd, Randallstown, MD 21133",
+      "auction_date": "2026-07-23",
+      "auction_time": "9:00 AM",
+      "auction_location": "Baltimore County Courthouse, Towson, MD",
+      "opening_bid": "",
+      "bid_deposit": "",
+      "beds": "",
+      "baths": "4",
+      "sqft": "3242",
+      "county": "Baltimore",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/10009-paxton-rd-randallstown-md-2097328"
     },
     {
       "id": "auctioncom-2095220",
