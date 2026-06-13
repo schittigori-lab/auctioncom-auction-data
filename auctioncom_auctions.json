@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T22:26:45Z",
+  "last_updated": "2026-06-13T15:03:25Z",
   "auctions": [
     {
       "id": "auctioncom-2056082",
@@ -2193,6 +2193,40 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/114-s-stricker-st-baltimore-md-2084780"
+    },
+    {
+      "id": "auctioncom-2086052",
+      "property_address": "2700 Willow Oak Dr, Cambridge, MD 21613",
+      "auction_date": "2026-07-06",
+      "auction_time": "9:00 AM",
+      "auction_location": "Dorchester County Courthouse, Cambridge, MD",
+      "opening_bid": "",
+      "bid_deposit": "",
+      "beds": "",
+      "baths": "2",
+      "sqft": "",
+      "county": "Dorchester",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/2700-willow-oak-dr-cambridge-md-2086052"
+    },
+    {
+      "id": "auctioncom-2091665",
+      "property_address": "64 Jackson St, Lonaconing, MD 21539",
+      "auction_date": "2026-07-06",
+      "auction_time": "11:30 AM",
+      "auction_location": "Allegany County Courthouse, Cumberland, MD",
+      "opening_bid": "",
+      "bid_deposit": "",
+      "beds": "",
+      "baths": "2",
+      "sqft": "1898",
+      "county": "Allegany",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/64-jackson-st-lonaconing-md-2091665"
     },
     {
       "id": "auctioncom-2085383",
