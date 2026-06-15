@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-15T17:59:50Z",
+  "last_updated": "2026-06-15T23:04:53Z",
   "auctions": [
     {
       "id": "auctioncom-2056082",
@@ -119,23 +119,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/1244-guildford-rd-glen-burnie-md-2045532"
-    },
-    {
-      "id": "auctioncom-2066658",
-      "property_address": "4111 Hatley Place, White Plains, MD 20695",
-      "auction_date": "2026-06-16",
-      "auction_time": "1:06 PM",
-      "auction_location": "Charles County Courthouse, La Plata, MD",
-      "opening_bid": "$433,739",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "3.5",
-      "sqft": "2564",
-      "county": "Charles",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/4111-hatley-pl-white-plains-md-2066658"
     },
     {
       "id": "auctioncom-2066885",
@@ -2278,23 +2261,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/1664-terrapin-cir-cambridge-md-2077189"
-    },
-    {
-      "id": "auctioncom-2044940",
-      "property_address": "24725 Cutsail Drive, Damascus, MD 20872",
-      "auction_date": "2026-07-07",
-      "auction_time": "1:30 PM",
-      "auction_location": "Montgomery County Courthouse, Rockville, MD",
-      "opening_bid": "$613,894",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "3",
-      "sqft": "2518",
-      "county": "Montgomery",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/24725-cutsail-dr-damascus-md-2044940"
     },
     {
       "id": "auctioncom-2056403",
