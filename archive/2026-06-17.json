@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T16:40:31Z",
+  "last_updated": "2026-06-17T22:47:05Z",
   "auctions": [
     {
       "id": "auctioncom-2056368",
@@ -17,57 +17,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/7608-gladstone-rd-baltimore-md-2056368"
-    },
-    {
-      "id": "auctioncom-2048085",
-      "property_address": "4032 Petersville Rd, Knoxville, MD 21758",
-      "auction_date": "2026-06-17",
-      "auction_time": "1:00 PM",
-      "auction_location": "Frederick County Courthouse, Frederick, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "2.5",
-      "sqft": "3228",
-      "county": "Frederick",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/4032-petersville-rd-knoxville-md-2048085"
-    },
-    {
-      "id": "auctioncom-2056372",
-      "property_address": "1204 Mazeland Drive, Bel Air, MD 21015",
-      "auction_date": "2026-06-17",
-      "auction_time": "2:30 PM",
-      "auction_location": "Harford County Courthouse, Bel Air, MD",
-      "opening_bid": "$884,081",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "2.5",
-      "sqft": "3936",
-      "county": "Harford",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/1204-mazeland-dr-bel-air-md-2056372"
-    },
-    {
-      "id": "auctioncom-2040721",
-      "property_address": "4004 Mayberry Avenue, Baltimore, MD 21206",
-      "auction_date": "2026-06-17",
-      "auction_time": "10:15 AM",
-      "auction_location": "Baltimore City Courthouse, Baltimore, MD",
-      "opening_bid": "$277,894",
-      "bid_deposit": "",
-      "beds": "4",
-      "baths": "1.5",
-      "sqft": "1650",
-      "county": "Baltimore City",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/4004-mayberry-ave-baltimore-md-2040721"
     },
     {
       "id": "auctioncom-2059944",
@@ -272,23 +221,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/7437-ricksway-rd-pikesville-md-2064403"
-    },
-    {
-      "id": "auctioncom-2065576",
-      "property_address": "4124 Forest Park Avenue West, Baltimore, MD 21207",
-      "auction_date": "2026-06-18",
-      "auction_time": "10:17 AM",
-      "auction_location": "Baltimore City Courthouse, Baltimore, MD",
-      "opening_bid": "$259,380",
-      "bid_deposit": "",
-      "beds": "7",
-      "baths": "1.5",
-      "sqft": "2372",
-      "county": "Baltimore City",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/4124-w-forest-park-ave-baltimore-md-2065576"
     },
     {
       "id": "auctioncom-2065912",
@@ -646,23 +578,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/803-walnut-st-pocomoke-city-md-2074128"
-    },
-    {
-      "id": "auctioncom-2075102",
-      "property_address": "3230 Cox Road, Chesapeake Beach, MD 20732",
-      "auction_date": "2026-06-23",
-      "auction_time": "3:37 PM",
-      "auction_location": "Calvert County Courthouse, Prince Frederick, MD",
-      "opening_bid": "$406,519",
-      "bid_deposit": "",
-      "beds": "4",
-      "baths": "2",
-      "sqft": "960",
-      "county": "Calvert",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/3230-cox-rd-chesapeake-beach-md-2075102"
     },
     {
       "id": "auctioncom-2075943",
