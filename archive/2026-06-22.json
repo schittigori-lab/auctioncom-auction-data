@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T17:41:36Z",
+  "last_updated": "2026-06-22T22:49:19Z",
   "auctions": [
     {
       "id": "auctioncom-2076000",
@@ -17,23 +17,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/1242-calvert-beach-rd-saint-leonard-md-2076000"
-    },
-    {
-      "id": "auctioncom-2047749",
-      "property_address": "3518 Brantley Road, Pocomoke City, MD 21851",
-      "auction_date": "2026-06-22",
-      "auction_time": "3:00 PM",
-      "auction_location": "Worcester County Courthouse, Snow Hill, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "1",
-      "sqft": "1120",
-      "county": "Worcester",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/3518-brantley-rd-pocomoke-city-md-2047749"
     },
     {
       "id": "auctioncom-2062257",
@@ -1921,23 +1904,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/7529-courtney-pl-landover-md-2091016"
-    },
-    {
-      "id": "auctioncom-2058418",
-      "property_address": "7313 Lynnhurst St, Chevy Chase, MD 20815",
-      "auction_date": "2026-07-08",
-      "auction_time": "9:00 AM",
-      "auction_location": "Montgomery County Courthouse, Rockville, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "3",
-      "sqft": "2864",
-      "county": "Montgomery",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/7313-lynnhurst-st-chevy-chase-md-2058418"
     },
     {
       "id": "auctioncom-2066657",
