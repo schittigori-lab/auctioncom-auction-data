@@ -1,23 +1,6 @@
 {
-  "last_updated": "2026-06-24T15:34:59Z",
+  "last_updated": "2026-06-24T22:20:45Z",
   "auctions": [
-    {
-      "id": "auctioncom-2078934",
-      "property_address": "11510 Goodloe Road, Silver Spring, MD 20850",
-      "auction_date": "2026-06-24",
-      "auction_time": "1:00 PM",
-      "auction_location": "Montgomery County Courthouse, Rockville, MD",
-      "opening_bid": "$474,961",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "2",
-      "sqft": "1134",
-      "county": "Montgomery",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/11510-goodloe-rd-silver-spring-md-2078934"
-    },
     {
       "id": "auctioncom-2064838",
       "property_address": "505 Silver Spring Ave, Silver Spring, MD 20910",
@@ -1515,23 +1498,6 @@
       "detail_url": "https://www.auction.com/details/7730-garrison-rd-hyattsville-md-2090702"
     },
     {
-      "id": "auctioncom-2091016",
-      "property_address": "7529 Courtney Pl, Landover, MD 20785",
-      "auction_date": "2026-07-07",
-      "auction_time": "9:00 AM",
-      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
-      "opening_bid": "$307,976",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "2.5",
-      "sqft": "1452",
-      "county": "Prince George's",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/7529-courtney-pl-landover-md-2091016"
-    },
-    {
       "id": "auctioncom-2066657",
       "property_address": "672 Glade Road, Friendsville, MD 21531",
       "auction_date": "2026-07-08",
@@ -2907,6 +2873,23 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/17610-forest-glen-cir-hagerstown-md-2071227"
+    },
+    {
+      "id": "auctioncom-2106589",
+      "property_address": "5628 Winthrope Avenue, Baltimore, MD 21214",
+      "auction_date": "2026-07-23",
+      "auction_time": "9:41 AM",
+      "auction_location": "Baltimore City Courthouse, Baltimore, MD",
+      "opening_bid": "",
+      "bid_deposit": "",
+      "beds": "",
+      "baths": "",
+      "sqft": "",
+      "county": "Baltimore City",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/5628-winthrope-ave-baltimore-md-2106589"
     },
     {
       "id": "auctioncom-2097328",
