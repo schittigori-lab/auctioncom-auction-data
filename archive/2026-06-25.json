@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T15:41:51Z",
+  "last_updated": "2026-06-25T22:23:38Z",
   "auctions": [
     {
       "id": "auctioncom-2081174",
@@ -138,40 +138,6 @@
       "detail_url": "https://www.auction.com/details/1012-bennett-pl-baltimore-md-2082904"
     },
     {
-      "id": "auctioncom-2074947",
-      "property_address": "9226 Curtis Drive, Columbia, MD 21045",
-      "auction_date": "2026-06-26",
-      "auction_time": "9:46 AM",
-      "auction_location": "Howard County Courthouse, Ellicott City, MD",
-      "opening_bid": "$735,690",
-      "bid_deposit": "",
-      "beds": "4",
-      "baths": "3.5",
-      "sqft": "2692",
-      "county": "Howard",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/9226-curtis-dr-columbia-md-2074947"
-    },
-    {
-      "id": "auctioncom-2080693",
-      "property_address": "10112 American Pharoah Lane, Unit A, Laurel, MD 20723",
-      "auction_date": "2026-06-26",
-      "auction_time": "9:50 AM",
-      "auction_location": "Howard County Courthouse, Ellicott City, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "",
-      "sqft": "",
-      "county": "Howard",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/10112-american-pharoah-ln-laurel-md-2080693"
-    },
-    {
       "id": "auctioncom-2078282",
       "property_address": "6737 Sandpiper Court, Frederick, MD 21703",
       "auction_date": "2026-06-26",
@@ -255,23 +221,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/18253-smoke-house-ct-germantown-md-2079377"
-    },
-    {
-      "id": "auctioncom-2081042",
-      "property_address": "5517 Huntington Parkway, Bethesda, MD 20814",
-      "auction_date": "2026-06-26",
-      "auction_time": "4:09 PM",
-      "auction_location": "Montgomery County Courthouse, Rockville, MD",
-      "opening_bid": "$1,180,785",
-      "bid_deposit": "",
-      "beds": "5",
-      "baths": "2.5",
-      "sqft": "1948",
-      "county": "Montgomery",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/5517-huntington-pkwy-bethesda-md-2081042"
     },
     {
       "id": "auctioncom-2087261",
@@ -2672,7 +2621,7 @@
     },
     {
       "id": "auctioncom-2095045",
-      "property_address": "10804 Powers Avenue, Cockeysville, MD 21030",
+      "property_address": "2Ndlien 10804 Powers Avenue, Cockeysville, MD 21030",
       "auction_date": "2026-07-16",
       "auction_time": "9:00 AM",
       "auction_location": "Baltimore County Courthouse, Towson, MD",
