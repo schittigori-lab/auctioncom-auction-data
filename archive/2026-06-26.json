@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T15:26:18Z",
+  "last_updated": "2026-06-26T22:17:13Z",
   "auctions": [
     {
       "id": "auctioncom-2078282",
@@ -51,23 +51,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/20-w-pennsylvania-ave-walkersville-md-2052051"
-    },
-    {
-      "id": "auctioncom-2077097",
-      "property_address": "5616 Gulfstream Row, Columbia, MD 21044",
-      "auction_date": "2026-06-26",
-      "auction_time": "9:44 AM",
-      "auction_location": "Howard County Courthouse, Ellicott City, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "3.5",
-      "sqft": "1520",
-      "county": "Howard",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/5616-gulfstream-row-columbia-md-2077097"
     },
     {
       "id": "auctioncom-2079377",
@@ -1115,7 +1098,7 @@
       "opening_bid": "$504,297",
       "bid_deposit": "",
       "beds": "3",
-      "baths": "3",
+      "baths": "2.5",
       "sqft": "2184",
       "county": "Calvert",
       "state": "MD",
