@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T16:39:31Z",
+  "last_updated": "2026-06-29T22:11:03Z",
   "auctions": [
     {
       "id": "auctioncom-2062203",
@@ -614,6 +614,23 @@
       "detail_url": "https://www.auction.com/details/3502-rhom-rd-baltimore-md-2087973"
     },
     {
+      "id": "auctioncom-2080076",
+      "property_address": "939 Elm Ridge Ave, Baltimore, MD 21229",
+      "auction_date": "2026-07-02",
+      "auction_time": "1:00 PM",
+      "auction_location": "Baltimore County Courthouse, Towson, MD",
+      "opening_bid": "",
+      "bid_deposit": "",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1650",
+      "county": "Baltimore",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/939-elm-ridge-ave-baltimore-md-2080076"
+    },
+    {
       "id": "auctioncom-2078744",
       "property_address": "916 Winterhaven Dr, Gambrills, MD 21054",
       "auction_date": "2026-07-02",
@@ -663,23 +680,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/500-beach-dr-annapolis-md-2074290"
-    },
-    {
-      "id": "auctioncom-2080076",
-      "property_address": "939 Elm Ridge Ave, Baltimore, MD 21229",
-      "auction_date": "2026-07-02",
-      "auction_time": "9:00 AM",
-      "auction_location": "Baltimore City Courthouse, Baltimore, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "2",
-      "sqft": "1650",
-      "county": "Baltimore City",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/939-elm-ridge-ave-baltimore-md-2080076"
     },
     {
       "id": "auctioncom-2081259",
