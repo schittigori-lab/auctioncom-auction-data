@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T14:41:01Z",
+  "last_updated": "2026-07-04T22:01:55Z",
   "auctions": [
     {
       "id": "auctioncom-2086052",
@@ -1651,23 +1651,6 @@
       "detail_url": "https://www.auction.com/details/2608-sansbury-rd-upper-marlboro-md-2097340"
     },
     {
-      "id": "auctioncom-2103925",
-      "property_address": "8813 Edison Lane, Clinton, MD 20735",
-      "auction_date": "2026-07-21",
-      "auction_time": "10:47 AM",
-      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
-      "opening_bid": "$518,005",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "2.5",
-      "sqft": "2324",
-      "county": "Prince George's",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/8813-edison-ln-clinton-md-2103925"
-    },
-    {
       "id": "auctioncom-2101979",
       "property_address": "9506 Tellico Place, Clinton, MD 20735",
       "auction_date": "2026-07-21",
@@ -1683,6 +1666,23 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/9506-tellico-pl-clinton-md-2101979"
+    },
+    {
+      "id": "auctioncom-2103925",
+      "property_address": "8813 Edison Lane, Clinton, MD 20735",
+      "auction_date": "2026-07-21",
+      "auction_time": "10:47 AM",
+      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
+      "opening_bid": "$518,005",
+      "bid_deposit": "",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "2324",
+      "county": "Prince George's",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/8813-edison-ln-clinton-md-2103925"
     },
     {
       "id": "auctioncom-2074109",
