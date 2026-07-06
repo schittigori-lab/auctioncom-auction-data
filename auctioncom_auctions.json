@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T16:24:28Z",
+  "last_updated": "2026-07-06T22:16:23Z",
   "auctions": [
     {
       "id": "auctioncom-2086052",
@@ -2083,7 +2083,7 @@
       "auction_location": "Montgomery County Courthouse, Rockville, MD",
       "opening_bid": "$488,230",
       "bid_deposit": "",
-      "beds": "",
+      "beds": "3",
       "baths": "2.5",
       "sqft": "1628",
       "county": "Montgomery",
@@ -2134,7 +2134,7 @@
       "auction_location": "Baltimore County Courthouse, Towson, MD",
       "opening_bid": "",
       "bid_deposit": "",
-      "beds": "",
+      "beds": "3",
       "baths": "3",
       "sqft": "1600",
       "county": "Baltimore",
@@ -2270,7 +2270,7 @@
       "auction_location": "Charles County Courthouse, La Plata, MD",
       "opening_bid": "$236,752",
       "bid_deposit": "",
-      "beds": "",
+      "beds": "3",
       "baths": "2.5",
       "sqft": "1350",
       "county": "Charles",
