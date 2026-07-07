@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T15:45:07Z",
+  "last_updated": "2026-07-07T22:12:28Z",
   "auctions": [
     {
       "id": "auctioncom-2059174",
@@ -2810,7 +2810,7 @@
       "id": "auctioncom-2109747",
       "property_address": "3307 Cardenas Avenue, Baltimore, MD 21213",
       "auction_date": "2026-07-30",
-      "auction_time": "9:48 AM",
+      "auction_time": "9:49 AM",
       "auction_location": "Baltimore City Courthouse, Baltimore, MD",
       "opening_bid": "",
       "bid_deposit": "",
@@ -2827,7 +2827,7 @@
       "id": "auctioncom-2110508",
       "property_address": "107 Washington Street, Timonium, MD 21093",
       "auction_date": "2026-07-30",
-      "auction_time": "11:46 AM",
+      "auction_time": "12:02 PM",
       "auction_location": "Baltimore County Courthouse, Towson, MD",
       "opening_bid": "$630,782",
       "bid_deposit": "",
@@ -2929,7 +2929,7 @@
       "id": "auctioncom-2105972",
       "property_address": "3713 Mary Avenue, Baltimore, MD 21206",
       "auction_date": "2026-07-30",
-      "auction_time": "9:00 AM",
+      "auction_time": "9:51 AM",
       "auction_location": "Baltimore City Courthouse, Baltimore, MD",
       "opening_bid": "",
       "bid_deposit": "",
@@ -2946,7 +2946,7 @@
       "id": "auctioncom-2108780",
       "property_address": "3955 Bush Court, Abingdon, MD 21009",
       "auction_date": "2026-07-30",
-      "auction_time": "9:00 AM",
+      "auction_time": "1:10 PM",
       "auction_location": "Harford County Courthouse, Bel Air, MD",
       "opening_bid": "$283,957",
       "bid_deposit": "",
