@@ -1,23 +1,6 @@
 {
-  "last_updated": "2026-07-08T15:33:33Z",
+  "last_updated": "2026-07-08T22:11:06Z",
   "auctions": [
-    {
-      "id": "auctioncom-2066657",
-      "property_address": "672 Glade Road, Friendsville, MD 21531",
-      "auction_date": "2026-07-08",
-      "auction_time": "1:00 PM",
-      "auction_location": "Garrett County Courthouse, Oakland, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "2.5",
-      "sqft": "3046",
-      "county": "Garrett",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/672-glade-rd-friendsville-md-2066657"
-    },
     {
       "id": "auctioncom-2085889",
       "property_address": "21416 Leiters Mill Road, Hagerstown, MD 21742",
@@ -306,23 +289,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/1101-rowan-ct-baltimore-md-2087646"
-    },
-    {
-      "id": "auctioncom-2088722",
-      "property_address": "103 S Jennings Rd, Severna Park, MD 21146",
-      "auction_date": "2026-07-09",
-      "auction_time": "4:00 PM",
-      "auction_location": "Anne Arundel County Courthouse, Annapolis, MD",
-      "opening_bid": "$617,714",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "1",
-      "sqft": "1506",
-      "county": "Anne Arundel",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/103-s-jennings-rd-severna-park-md-2088722"
     },
     {
       "id": "auctioncom-2091037",
@@ -697,23 +663,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/806-congressional-ct-bowie-md-2055382"
-    },
-    {
-      "id": "auctioncom-2061441",
-      "property_address": "5701 Chesterfield Drive, Temple Hills, MD 20748",
-      "auction_date": "2026-07-14",
-      "auction_time": "10:00 AM",
-      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
-      "opening_bid": "$438,703",
-      "bid_deposit": "",
-      "beds": "5",
-      "baths": "3",
-      "sqft": "1248",
-      "county": "Prince George's",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/5701-chesterfield-dr-temple-hills-md-2061441"
     },
     {
       "id": "auctioncom-2086462",
@@ -1328,23 +1277,6 @@
       "detail_url": "https://www.auction.com/details/2608-sansbury-rd-upper-marlboro-md-2097340"
     },
     {
-      "id": "auctioncom-2103925",
-      "property_address": "8813 Edison Lane, Clinton, MD 20735",
-      "auction_date": "2026-07-21",
-      "auction_time": "10:47 AM",
-      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
-      "opening_bid": "$518,005",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "2.5",
-      "sqft": "2324",
-      "county": "Prince George's",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/8813-edison-ln-clinton-md-2103925"
-    },
-    {
       "id": "auctioncom-2101979",
       "property_address": "9506 Tellico Place, Clinton, MD 20735",
       "auction_date": "2026-07-21",
@@ -1362,21 +1294,21 @@
       "detail_url": "https://www.auction.com/details/9506-tellico-pl-clinton-md-2101979"
     },
     {
-      "id": "auctioncom-2074109",
-      "property_address": "4650 Skinners Run Road, Hurlock, MD 21643",
+      "id": "auctioncom-2103925",
+      "property_address": "8813 Edison Lane, Clinton, MD 20735",
       "auction_date": "2026-07-21",
-      "auction_time": "12:55 PM",
-      "auction_location": "Dorchester County Courthouse, Cambridge, MD",
-      "opening_bid": "",
+      "auction_time": "10:47 AM",
+      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
+      "opening_bid": "$518,005",
       "bid_deposit": "",
-      "beds": "2",
-      "baths": "1.5",
-      "sqft": "1248",
-      "county": "Dorchester",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "2324",
+      "county": "Prince George's",
       "state": "MD",
       "source": "AUCTIONCOM",
       "status": "active",
-      "detail_url": "https://www.auction.com/details/4650-skinners-run-rd-hurlock-md-2074109"
+      "detail_url": "https://www.auction.com/details/8813-edison-ln-clinton-md-2103925"
     },
     {
       "id": "auctioncom-2076946",
@@ -1938,23 +1870,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/1902-winder-rd-windsor-mill-md-2101210"
-    },
-    {
-      "id": "auctioncom-2101220",
-      "property_address": "1115 Robin Hill Court, Bel Air, MD 21015",
-      "auction_date": "2026-07-23",
-      "auction_time": "1:42 PM",
-      "auction_location": "Harford County Courthouse, Bel Air, MD",
-      "opening_bid": "$331,878",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "3",
-      "sqft": "1872",
-      "county": "Harford",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/1115-robin-hill-ct-bel-air-md-2101220"
     },
     {
       "id": "auctioncom-2101227",
@@ -2839,6 +2754,23 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/18830-strawberry-knoll-rd-gaithersburg-md-2109702"
+    },
+    {
+      "id": "auctioncom-2119766",
+      "property_address": "692 Sunflower Ct, Westminster, MD 21157",
+      "auction_date": "2026-07-31",
+      "auction_time": "9:00 AM",
+      "auction_location": "Carroll County Courthouse, Westminster, MD",
+      "opening_bid": "",
+      "bid_deposit": "",
+      "beds": "",
+      "baths": "",
+      "sqft": "",
+      "county": "Carroll",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/692-sunflower-ct-westminster-md-2119766"
     },
     {
       "id": "auctioncom-2091219",
