@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T15:06:17Z",
+  "last_updated": "2026-07-16T22:05:45Z",
   "auctions": [
     {
       "id": "auctioncom-2073065",
@@ -17,23 +17,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/913-argyle-ave-baltimore-md-2073065"
-    },
-    {
-      "id": "auctioncom-2101182",
-      "property_address": "122 Willow Avenue, Towson, MD 21286",
-      "auction_date": "2026-07-16",
-      "auction_time": "12:17 PM",
-      "auction_location": "Baltimore County Courthouse, Towson, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "3",
-      "sqft": "1506",
-      "county": "Baltimore",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/122-willow-ave-towson-md-2101182"
     },
     {
       "id": "auctioncom-2087030",
@@ -172,23 +155,6 @@
       "detail_url": "https://www.auction.com/details/2608-sansbury-rd-upper-marlboro-md-2097340"
     },
     {
-      "id": "auctioncom-2103925",
-      "property_address": "8813 Edison Lane, Clinton, MD 20735",
-      "auction_date": "2026-07-21",
-      "auction_time": "10:47 AM",
-      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
-      "opening_bid": "$518,005",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "2.5",
-      "sqft": "2324",
-      "county": "Prince George's",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/8813-edison-ln-clinton-md-2103925"
-    },
-    {
       "id": "auctioncom-2101979",
       "property_address": "9506 Tellico Place, Clinton, MD 20735",
       "auction_date": "2026-07-21",
@@ -204,6 +170,23 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/9506-tellico-pl-clinton-md-2101979"
+    },
+    {
+      "id": "auctioncom-2103925",
+      "property_address": "8813 Edison Lane, Clinton, MD 20735",
+      "auction_date": "2026-07-21",
+      "auction_time": "10:47 AM",
+      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
+      "opening_bid": "$518,005",
+      "bid_deposit": "",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "2324",
+      "county": "Prince George's",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/8813-edison-ln-clinton-md-2103925"
     },
     {
       "id": "auctioncom-2076946",
@@ -1328,23 +1311,6 @@
       "detail_url": "https://www.auction.com/details/3307-cardenas-ave-baltimore-md-2109747"
     },
     {
-      "id": "auctioncom-2110508",
-      "property_address": "107 Washington Street, Timonium, MD 21093",
-      "auction_date": "2026-07-30",
-      "auction_time": "12:02 PM",
-      "auction_location": "Baltimore County Courthouse, Towson, MD",
-      "opening_bid": "$630,782",
-      "bid_deposit": "",
-      "beds": "4",
-      "baths": "2",
-      "sqft": "2364",
-      "county": "Baltimore",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/107-washington-st-timonium-md-2110508"
-    },
-    {
       "id": "auctioncom-2098054",
       "property_address": "7525 Snow Hl Rd, Salisbury, MD 21804",
       "auction_date": "2026-07-30",
@@ -2178,6 +2144,23 @@
       "detail_url": "https://www.auction.com/details/3021-fallstaff-rd-baltimore-md-2124931"
     },
     {
+      "id": "auctioncom-2128148",
+      "property_address": "3021 Fallstaff Rd, Baltimore, MD 21209",
+      "auction_date": "2026-08-05",
+      "auction_time": "9:00 AM",
+      "auction_location": "Baltimore City Courthouse, Baltimore, MD",
+      "opening_bid": "",
+      "bid_deposit": "",
+      "beds": "",
+      "baths": "",
+      "sqft": "1671",
+      "county": "Baltimore City",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/3021-fallstaff-rd-baltimore-md-2128148"
+    },
+    {
       "id": "auctioncom-2059625",
       "property_address": "11545 Wildcat Court, Lusby, MD 20657",
       "auction_date": "2026-08-06",
@@ -2567,6 +2550,23 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/8196-honey-clover-ct-frederick-md-2121261"
+    },
+    {
+      "id": "auctioncom-2127611",
+      "property_address": "11503 Waloak Court, Hagerstown, MD 21742",
+      "auction_date": "2026-08-14",
+      "auction_time": "9:00 AM",
+      "auction_location": "Washington County Courthouse, Hagerstown, MD",
+      "opening_bid": "",
+      "bid_deposit": "",
+      "beds": "",
+      "baths": "3.5",
+      "sqft": "3059",
+      "county": "Washington",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/11503-waloak-ct-hagerstown-md-2127611"
     },
     {
       "id": "auctioncom-2094333",
