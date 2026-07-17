@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T14:46:24Z",
+  "last_updated": "2026-07-17T21:56:44Z",
   "auctions": [
     {
       "id": "auctioncom-2075320",
@@ -714,23 +714,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/7476-merrymaker-way-elkridge-md-2106542"
-    },
-    {
-      "id": "auctioncom-2108777",
-      "property_address": "9845 Lake Shore Drive, Gaithersburg, MD 20886",
-      "auction_date": "2026-07-24",
-      "auction_time": "11:03 AM",
-      "auction_location": "Montgomery County Courthouse, Rockville, MD",
-      "opening_bid": "$363,277",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "2.5",
-      "sqft": "1449",
-      "county": "Montgomery",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/9845-lake-shore-dr-gaithersburg-md-2108777"
     },
     {
       "id": "auctioncom-2096544",
@@ -1838,23 +1821,6 @@
       "detail_url": "https://www.auction.com/details/973-ellicott-dr-baltimore-md-2114775"
     },
     {
-      "id": "auctioncom-2114776",
-      "property_address": "3100 Baybriar Rd, Baltimore, MD 21222",
-      "auction_date": "2026-08-04",
-      "auction_time": "9:00 AM",
-      "auction_location": "Baltimore County Courthouse, Towson, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "1",
-      "sqft": "672",
-      "county": "Baltimore",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/3100-baybriar-rd-baltimore-md-2114776"
-    },
-    {
       "id": "auctioncom-2115404",
       "property_address": "16710 Maylon Court, Brandywine, MD 20613",
       "auction_date": "2026-08-04",
@@ -2312,23 +2278,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/3606-dudley-ave-baltimore-md-2111432"
-    },
-    {
-      "id": "auctioncom-2113316",
-      "property_address": "3112 Oakley Avenue, Baltimore, MD 21215",
-      "auction_date": "2026-08-06",
-      "auction_time": "9:52 AM",
-      "auction_location": "Baltimore City Courthouse, Baltimore, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "",
-      "sqft": "",
-      "county": "Baltimore City",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/3112-oakley-ave-baltimore-md-2113316"
     },
     {
       "id": "auctioncom-2113317",
