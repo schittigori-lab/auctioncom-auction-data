@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T14:24:52Z",
+  "last_updated": "2026-07-19T21:56:56Z",
   "auctions": [
     {
       "id": "auctioncom-2097340",
@@ -1804,23 +1804,6 @@
       "detail_url": "https://www.auction.com/details/16710-maylon-ct-brandywine-md-2115404"
     },
     {
-      "id": "auctioncom-2080009",
-      "property_address": "7429 Rosewood Manor Lane, Gaithersburg, MD 20882",
-      "auction_date": "2026-08-05",
-      "auction_time": "2:04 PM",
-      "auction_location": "Montgomery County Courthouse, Rockville, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "4",
-      "baths": "3.5",
-      "sqft": "3560",
-      "county": "Montgomery",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/7429-rosewood-manor-ln-gaithersburg-md-2080009"
-    },
-    {
       "id": "auctioncom-2111773",
       "property_address": "656 Yorkshire Drive, Edgewood, MD 21040",
       "auction_date": "2026-08-05",
@@ -1836,6 +1819,23 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/656-yorkshire-dr-edgewood-md-2111773"
+    },
+    {
+      "id": "auctioncom-2080009",
+      "property_address": "7429 Rosewood Manor Lane, Gaithersburg, MD 20882",
+      "auction_date": "2026-08-05",
+      "auction_time": "2:04 PM",
+      "auction_location": "Montgomery County Courthouse, Rockville, MD",
+      "opening_bid": "",
+      "bid_deposit": "",
+      "beds": "4",
+      "baths": "3.5",
+      "sqft": "3560",
+      "county": "Montgomery",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/7429-rosewood-manor-ln-gaithersburg-md-2080009"
     },
     {
       "id": "auctioncom-2104088",
