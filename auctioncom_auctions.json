@@ -1,40 +1,6 @@
 {
-  "last_updated": "2026-07-23T15:11:52Z",
+  "last_updated": "2026-07-23T22:07:51Z",
   "auctions": [
-    {
-      "id": "auctioncom-2106589",
-      "property_address": "5628 Winthrope Avenue, Baltimore, MD 21214",
-      "auction_date": "2026-07-23",
-      "auction_time": "9:54 AM",
-      "auction_location": "Baltimore City Courthouse, Baltimore, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "",
-      "sqft": "",
-      "county": "Baltimore City",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/5628-winthrope-ave-baltimore-md-2106589"
-    },
-    {
-      "id": "auctioncom-2104554",
-      "property_address": "4219 Norfolk Avenue, Baltimore, MD 21216",
-      "auction_date": "2026-07-23",
-      "auction_time": "9:56 AM",
-      "auction_location": "Baltimore City Courthouse, Baltimore, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "1.5",
-      "sqft": "1580",
-      "county": "Baltimore City",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/4219-norfolk-ave-baltimore-md-2104554"
-    },
     {
       "id": "auctioncom-2104940",
       "property_address": "1308 Roxboro Road, Baltimore, MD 21237",
@@ -1804,23 +1770,6 @@
       "detail_url": "https://www.auction.com/details/6509-springwater-ct-frederick-md-2114509"
     },
     {
-      "id": "auctioncom-2120842",
-      "property_address": "306 Clagett Drive, Rockville, MD 20851",
-      "auction_date": "2026-08-07",
-      "auction_time": "3:30 PM",
-      "auction_location": "Montgomery County Courthouse, Rockville, MD",
-      "opening_bid": "$497,025",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "1",
-      "sqft": "956",
-      "county": "Montgomery",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/306-clagett-dr-rockville-md-2120842"
-    },
-    {
       "id": "auctioncom-2121261",
       "property_address": "8196 Honey Clover Court, Frederick, MD 21702",
       "auction_date": "2026-08-07",
@@ -2178,23 +2127,6 @@
       "detail_url": "https://www.auction.com/details/11537-summer-oak-dr-germantown-md-2104089"
     },
     {
-      "id": "auctioncom-2105694",
-      "property_address": "12702 Dean Rd, Silver Spring, MD 20906",
-      "auction_date": "2026-08-12",
-      "auction_time": "9:00 AM",
-      "auction_location": "Montgomery County Courthouse, Rockville, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "6",
-      "baths": "1.5",
-      "sqft": "2243",
-      "county": "Montgomery",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/12702-dean-rd-silver-spring-md-2105694"
-    },
-    {
       "id": "auctioncom-2109583",
       "property_address": "7501 Cove Point Way, Elkridge, MD 21075",
       "auction_date": "2026-08-12",
@@ -2448,6 +2380,23 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/8601-manchester-rd-silver-spring-md-2131776"
+    },
+    {
+      "id": "auctioncom-2134513",
+      "property_address": "7007 Migliori Court, District Heights, MD 20747",
+      "auction_date": "2026-08-25",
+      "auction_time": "12:09 PM",
+      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
+      "opening_bid": "",
+      "bid_deposit": "",
+      "beds": "",
+      "baths": "",
+      "sqft": "",
+      "county": "Prince George's",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/7007-migliori-ct-district-heights-md-2134513"
     }
   ]
 }
