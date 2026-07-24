@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T14:59:22Z",
+  "last_updated": "2026-07-24T22:07:49Z",
   "auctions": [
     {
       "id": "auctioncom-2108480",
@@ -22,7 +22,7 @@
       "id": "auctioncom-2096520",
       "property_address": "1704 Blue Heron Dr, Denton, MD 21629",
       "auction_date": "2026-07-24",
-      "auction_time": "9:00 AM",
+      "auction_time": "1:00 PM",
       "auction_location": "Caroline County Courthouse, Denton, MD",
       "opening_bid": "$201,515",
       "bid_deposit": "",
@@ -119,23 +119,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/2913-cassidy-pl-waldorf-md-2110564"
-    },
-    {
-      "id": "auctioncom-2103775",
-      "property_address": "16 Birch Avenue, Glen Burnie, MD 21061",
-      "auction_date": "2026-07-28",
-      "auction_time": "10:00 AM",
-      "auction_location": "MD Courthouse (see listing)",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "1",
-      "sqft": "1170",
-      "county": "Anne Arundel County",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/16-birch-ave-glen-burnie-md-2103775"
     },
     {
       "id": "auctioncom-2105364",
@@ -1090,23 +1073,6 @@
       "detail_url": "https://www.auction.com/details/16710-maylon-ct-brandywine-md-2115404"
     },
     {
-      "id": "auctioncom-2080009",
-      "property_address": "7429 Rosewood Manor Lane, Gaithersburg, MD 20882",
-      "auction_date": "2026-08-05",
-      "auction_time": "2:04 PM",
-      "auction_location": "Montgomery County Courthouse, Rockville, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "4",
-      "baths": "3.5",
-      "sqft": "3560",
-      "county": "Montgomery",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/7429-rosewood-manor-ln-gaithersburg-md-2080009"
-    },
-    {
       "id": "auctioncom-2111773",
       "property_address": "656 Yorkshire Drive, Edgewood, MD 21040",
       "auction_date": "2026-08-05",
@@ -1122,6 +1088,23 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/656-yorkshire-dr-edgewood-md-2111773"
+    },
+    {
+      "id": "auctioncom-2080009",
+      "property_address": "7429 Rosewood Manor Lane, Gaithersburg, MD 20882",
+      "auction_date": "2026-08-05",
+      "auction_time": "2:04 PM",
+      "auction_location": "Montgomery County Courthouse, Rockville, MD",
+      "opening_bid": "",
+      "bid_deposit": "",
+      "beds": "4",
+      "baths": "3.5",
+      "sqft": "3560",
+      "county": "Montgomery",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/7429-rosewood-manor-ln-gaithersburg-md-2080009"
     },
     {
       "id": "auctioncom-2104088",
@@ -1753,23 +1736,6 @@
       "detail_url": "https://www.auction.com/details/735-lazy-river-rd-lusby-md-2105368"
     },
     {
-      "id": "auctioncom-2110731",
-      "property_address": "1750 East West Highway, Hyattsville, MD 20783",
-      "auction_date": "2026-08-11",
-      "auction_time": "9:00 AM",
-      "auction_location": "MD Courthouse (see listing)",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "5",
-      "baths": "4",
-      "sqft": "2194",
-      "county": "Prince George's County",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/1750-east-west-hwy-hyattsville-md-2110731"
-    },
-    {
       "id": "auctioncom-2111332",
       "property_address": "7101 Donnell Place, Apt C8, District Heights, MD 20747",
       "auction_date": "2026-08-11",
@@ -2217,7 +2183,7 @@
       "auction_date": "2026-08-25",
       "auction_time": "12:09 PM",
       "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
-      "opening_bid": "",
+      "opening_bid": "$354,582",
       "bid_deposit": "",
       "beds": "3",
       "baths": "2.5",
