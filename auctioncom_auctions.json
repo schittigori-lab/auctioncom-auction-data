@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T15:10:41Z",
+  "last_updated": "2026-07-29T22:03:57Z",
   "auctions": [
     {
       "id": "auctioncom-2100598",
@@ -17,23 +17,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/3804-parkside-dr-baltimore-md-2100598"
-    },
-    {
-      "id": "auctioncom-2098260",
-      "property_address": "13903 Lullaby Road, Germantown, MD 20874",
-      "auction_date": "2026-07-29",
-      "auction_time": "1:00 PM",
-      "auction_location": "Montgomery County Courthouse, Rockville, MD",
-      "opening_bid": "$770,799",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "2.5",
-      "sqft": "2599",
-      "county": "Montgomery",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/13903-lullaby-rd-germantown-md-2098260"
     },
     {
       "id": "auctioncom-2095400",
@@ -325,23 +308,6 @@
       "detail_url": "https://www.auction.com/details/6364-euclid-ave-elkridge-md-2102053"
     },
     {
-      "id": "auctioncom-2103647",
-      "property_address": "987 Blooming Rose Road, Friendsville, MD 21531",
-      "auction_date": "2026-07-31",
-      "auction_time": "9:00 AM",
-      "auction_location": "Garrett County Courthouse, Oakland, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "1.5",
-      "sqft": "1782",
-      "county": "Garrett",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/987-blooming-rose-rd-friendsville-md-2103647"
-    },
-    {
       "id": "auctioncom-2109276",
       "property_address": "500 Heather Rdg Dr, Frederick, MD 21702",
       "auction_date": "2026-07-31",
@@ -425,23 +391,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/1103-barclay-rd-barclay-md-2078584"
-    },
-    {
-      "id": "auctioncom-2079161",
-      "property_address": "6509 Parkway Court, Hyattsville, MD 20782",
-      "auction_date": "2026-08-04",
-      "auction_time": "9:00 AM",
-      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
-      "opening_bid": "$412,965",
-      "bid_deposit": "",
-      "beds": "4",
-      "baths": "2",
-      "sqft": "1158",
-      "county": "Prince George's",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/6509-parkway-ct-hyattsville-md-2079161"
     },
     {
       "id": "auctioncom-2088132",
@@ -1804,6 +1753,23 @@
       "detail_url": "https://www.auction.com/details/11503-waloak-ct-hagerstown-md-2127611"
     },
     {
+      "id": "auctioncom-2139134",
+      "property_address": "13611 Pryor Rd #B, Thurmont, MD 21788",
+      "auction_date": "2026-08-14",
+      "auction_time": "9:00 AM",
+      "auction_location": "Frederick County Courthouse, Frederick, MD",
+      "opening_bid": "",
+      "bid_deposit": "",
+      "beds": "",
+      "baths": "",
+      "sqft": "",
+      "county": "Frederick",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/13611-pryor-rd-thurmont-md-2139134"
+    },
+    {
       "id": "auctioncom-2111330",
       "property_address": "6419 White Cove Drive, Salisbury, MD 21801",
       "auction_date": "2026-08-17",
@@ -2093,23 +2059,6 @@
       "detail_url": "https://www.auction.com/details/434-e-lanvale-st-baltimore-md-2113600"
     },
     {
-      "id": "auctioncom-2126715",
-      "property_address": "141 South Water Street, Frostburg, MD 21532",
-      "auction_date": "2026-08-19",
-      "auction_time": "11:30 AM",
-      "auction_location": "Allegany County Courthouse, Cumberland, MD",
-      "opening_bid": "$158,976",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "1",
-      "sqft": "1040",
-      "county": "Allegany",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/141-s-water-st-frostburg-md-2126715"
-    },
-    {
       "id": "auctioncom-2113409",
       "property_address": "8713 Roper Road, Parkville, MD 21234",
       "auction_date": "2026-08-19",
@@ -2142,6 +2091,23 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/2619-molton-way-windsor-mill-md-2122544"
+    },
+    {
+      "id": "auctioncom-2126715",
+      "property_address": "141 South Water Street, Frostburg, MD 21532",
+      "auction_date": "2026-08-19",
+      "auction_time": "11:30 AM",
+      "auction_location": "Allegany County Courthouse, Cumberland, MD",
+      "opening_bid": "$158,976",
+      "bid_deposit": "",
+      "beds": "3",
+      "baths": "1",
+      "sqft": "1040",
+      "county": "Allegany",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/141-s-water-st-frostburg-md-2126715"
     },
     {
       "id": "auctioncom-2123378",
