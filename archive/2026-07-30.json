@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T15:14:07Z",
+  "last_updated": "2026-07-30T22:08:50Z",
   "auctions": [
     {
       "id": "auctioncom-2106070",
@@ -665,23 +665,6 @@
       "detail_url": "https://www.auction.com/details/6212-bighorn-ct-waldorf-md-2105495"
     },
     {
-      "id": "auctioncom-2109601",
-      "property_address": "12400 Willow Green Ct, Potomac, MD 20854",
-      "auction_date": "2026-08-05",
-      "auction_time": "9:00 AM",
-      "auction_location": "Montgomery County Courthouse, Rockville, MD",
-      "opening_bid": "$1,339,590",
-      "bid_deposit": "",
-      "beds": "4",
-      "baths": "2.5",
-      "sqft": "4091",
-      "county": "Montgomery",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/12400-willow-green-ct-potomac-md-2109601"
-    },
-    {
       "id": "auctioncom-2116809",
       "property_address": "11704 Holly Hock Ct, Upper Marlboro, MD 20774",
       "auction_date": "2026-08-05",
@@ -1243,23 +1226,6 @@
       "detail_url": "https://www.auction.com/details/7314-lois-ln-lanham-md-2111431"
     },
     {
-      "id": "auctioncom-2115999",
-      "property_address": "515 Capitol Heights Boulevard, Capitol Heights, MD 20743",
-      "auction_date": "2026-08-11",
-      "auction_time": "11:25 AM",
-      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
-      "opening_bid": "$332,589",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "1.5",
-      "sqft": "1558",
-      "county": "Prince George's",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/515-capitol-heights-blvd-capitol-heights-md-2115999"
-    },
-    {
       "id": "auctioncom-2116714",
       "property_address": "14214 Bentley Park Drive, Laurel, MD 20707",
       "auction_date": "2026-08-11",
@@ -1802,23 +1768,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/608-field-rd-lusby-md-2123240"
-    },
-    {
-      "id": "auctioncom-2123452",
-      "property_address": "606 Fair Winds Way, Unit 262, Oxon Hill, MD 20745",
-      "auction_date": "2026-08-18",
-      "auction_time": "11:56 AM",
-      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
-      "opening_bid": "$803,475",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "5",
-      "sqft": "3358",
-      "county": "Prince George's",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/606-fair-winds-way-oxon-hill-md-2123452"
     },
     {
       "id": "auctioncom-2123733",
@@ -2635,6 +2584,23 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/7007-migliori-ct-district-heights-md-2134513"
+    },
+    {
+      "id": "auctioncom-2140694",
+      "property_address": "2 Ravenglass Rd, Waldorf, MD 20602",
+      "auction_date": "2026-09-14",
+      "auction_time": "11:30 AM",
+      "auction_location": "Charles County Courthouse, La Plata, MD",
+      "opening_bid": "$412,603",
+      "bid_deposit": "",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1755",
+      "county": "Charles",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/2-ravenglass-rd-waldorf-md-2140694"
     },
     {
       "id": "auctioncom-2123097",
