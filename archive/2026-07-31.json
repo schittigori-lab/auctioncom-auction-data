@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T15:22:54Z",
+  "last_updated": "2026-07-31T22:08:21Z",
   "auctions": [
     {
       "id": "auctioncom-2098919",
@@ -877,7 +877,7 @@
       "opening_bid": "",
       "bid_deposit": "",
       "beds": "3",
-      "baths": "2",
+      "baths": "1",
       "sqft": "1948",
       "county": "Baltimore City",
       "state": "MD",
@@ -2455,7 +2455,7 @@
       "auction_date": "2026-09-14",
       "auction_time": "11:30 AM",
       "auction_location": "Charles County Courthouse, La Plata, MD",
-      "opening_bid": "$412,603",
+      "opening_bid": "$403,673",
       "bid_deposit": "",
       "beds": "4",
       "baths": "2",
