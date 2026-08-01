@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T14:36:34Z",
+  "last_updated": "2026-08-01T21:59:23Z",
   "auctions": [
     {
       "id": "auctioncom-2096822",
@@ -765,23 +765,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/1923-searles-rd-baltimore-md-2113317"
-    },
-    {
-      "id": "auctioncom-2113500",
-      "property_address": "3605 Evergreen Ave, Baltimore, MD 21206",
-      "auction_date": "2026-08-06",
-      "auction_time": "9:00 AM",
-      "auction_location": "Baltimore City Courthouse, Baltimore, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "2",
-      "sqft": "1648",
-      "county": "Baltimore City",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/3605-evergreen-ave-baltimore-md-2113500"
     },
     {
       "id": "auctioncom-2116034",
@@ -1668,23 +1651,6 @@
       "detail_url": "https://www.auction.com/details/434-e-lanvale-st-baltimore-md-2113600"
     },
     {
-      "id": "auctioncom-2126715",
-      "property_address": "141 South Water Street, Frostburg, MD 21532",
-      "auction_date": "2026-08-19",
-      "auction_time": "11:30 AM",
-      "auction_location": "Allegany County Courthouse, Cumberland, MD",
-      "opening_bid": "$158,976",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "1",
-      "sqft": "1040",
-      "county": "Allegany",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/141-s-water-st-frostburg-md-2126715"
-    },
-    {
       "id": "auctioncom-2113409",
       "property_address": "8713 Roper Road, Parkville, MD 21234",
       "auction_date": "2026-08-19",
@@ -1717,6 +1683,23 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/2619-molton-way-windsor-mill-md-2122544"
+    },
+    {
+      "id": "auctioncom-2126715",
+      "property_address": "141 South Water Street, Frostburg, MD 21532",
+      "auction_date": "2026-08-19",
+      "auction_time": "11:30 AM",
+      "auction_location": "Allegany County Courthouse, Cumberland, MD",
+      "opening_bid": "$158,976",
+      "bid_deposit": "",
+      "beds": "3",
+      "baths": "1",
+      "sqft": "1040",
+      "county": "Allegany",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/141-s-water-st-frostburg-md-2126715"
     },
     {
       "id": "auctioncom-2123378",
