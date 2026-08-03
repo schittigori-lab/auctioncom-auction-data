@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T15:46:03Z",
+  "last_updated": "2026-08-03T22:11:18Z",
   "auctions": [
     {
       "id": "auctioncom-2112079",
@@ -359,23 +359,6 @@
       "detail_url": "https://www.auction.com/details/16710-maylon-ct-brandywine-md-2115404"
     },
     {
-      "id": "auctioncom-2111773",
-      "property_address": "656 Yorkshire Drive, Edgewood, MD 21040",
-      "auction_date": "2026-08-05",
-      "auction_time": "1:50 PM",
-      "auction_location": "Harford County Courthouse, Bel Air, MD",
-      "opening_bid": "$230,568",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "2",
-      "sqft": "1705",
-      "county": "Harford",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/656-yorkshire-dr-edgewood-md-2111773"
-    },
-    {
       "id": "auctioncom-2080009",
       "property_address": "7429 Rosewood Manor Lane, Gaithersburg, MD 20882",
       "auction_date": "2026-08-05",
@@ -391,6 +374,23 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/7429-rosewood-manor-ln-gaithersburg-md-2080009"
+    },
+    {
+      "id": "auctioncom-2111773",
+      "property_address": "656 Yorkshire Drive, Edgewood, MD 21040",
+      "auction_date": "2026-08-05",
+      "auction_time": "1:50 PM",
+      "auction_location": "Harford County Courthouse, Bel Air, MD",
+      "opening_bid": "$230,568",
+      "bid_deposit": "",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1705",
+      "county": "Harford",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/656-yorkshire-dr-edgewood-md-2111773"
     },
     {
       "id": "auctioncom-2104088",
@@ -1821,23 +1821,6 @@
       "detail_url": "https://www.auction.com/details/6-painters-place-ct-owings-mills-md-2113990"
     },
     {
-      "id": "auctioncom-2118924",
-      "property_address": "14904 Village Gate Drive, Silver Spring, MD 20906",
-      "auction_date": "2026-08-19",
-      "auction_time": "9:00 AM",
-      "auction_location": "MD Courthouse (see listing)",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "2.5",
-      "sqft": "2604",
-      "county": "Montgomery County",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/14904-village-gate-dr-silver-spring-md-2118924"
-    },
-    {
       "id": "auctioncom-2118962",
       "property_address": "10808 Symphony Way, Columbia, MD 21044",
       "auction_date": "2026-08-19",
@@ -2263,23 +2246,6 @@
       "detail_url": "https://www.auction.com/details/4401-fishermans-ct-olney-md-2130017"
     },
     {
-      "id": "auctioncom-2130730",
-      "property_address": "102 West Green Street, Funkstown, MD 21734",
-      "auction_date": "2026-08-21",
-      "auction_time": "1:47 PM",
-      "auction_location": "Washington County Courthouse, Hagerstown, MD",
-      "opening_bid": "$283,925",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "1",
-      "sqft": "1360",
-      "county": "Washington",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/102-w-green-st-funkstown-md-2130730"
-    },
-    {
       "id": "auctioncom-2131775",
       "property_address": "405 Harding Drive, Silver Spring, MD 20901",
       "auction_date": "2026-08-21",
@@ -2688,6 +2654,23 @@
       "detail_url": "https://www.auction.com/details/12901-camellia-dr-silver-spring-md-2140673"
     },
     {
+      "id": "auctioncom-2135444",
+      "property_address": "10578 Cross Fox Lane, Unit B-2, Columbia, MD 21044",
+      "auction_date": "2026-08-26",
+      "auction_time": "12:30 PM",
+      "auction_location": "Howard County Courthouse, Ellicott City, MD",
+      "opening_bid": "",
+      "bid_deposit": "",
+      "beds": "",
+      "baths": "",
+      "sqft": "757",
+      "county": "Howard",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/10578-cross-fox-ln-columbia-md-2135444"
+    },
+    {
       "id": "auctioncom-2126115",
       "property_address": "18808 Sparkling Water Dr, Germantown, MD 20874",
       "auction_date": "2026-08-26",
@@ -2771,23 +2754,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/4724-old-germany-ct-manchester-md-2134709"
-    },
-    {
-      "id": "auctioncom-2135444",
-      "property_address": "10578 Cross Fox Lane, Unit B-2, Columbia, MD 21044",
-      "auction_date": "2026-08-26",
-      "auction_time": "12:30 PM",
-      "auction_location": "Howard County Courthouse, Ellicott City, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "",
-      "sqft": "757",
-      "county": "Howard",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/10578-cross-fox-ln-columbia-md-2135444"
     },
     {
       "id": "auctioncom-2140694",
