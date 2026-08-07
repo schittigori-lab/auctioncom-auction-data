@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T14:14:58Z",
+  "last_updated": "2026-08-07T21:41:40Z",
   "auctions": [
     {
       "id": "auctioncom-2114509",
@@ -60,7 +60,7 @@
       "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
       "opening_bid": "",
       "bid_deposit": "",
-      "beds": "9",
+      "beds": "7",
       "baths": "4",
       "sqft": "2139",
       "county": "Prince George's",
@@ -170,23 +170,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/7101-donnell-pl-district-heights-md-2111332"
-    },
-    {
-      "id": "auctioncom-2111431",
-      "property_address": "7314 Lois Lane, Lanham, MD 20706",
-      "auction_date": "2026-08-11",
-      "auction_time": "9:00 AM",
-      "auction_location": "MD Courthouse (see listing)",
-      "opening_bid": "$456,155",
-      "bid_deposit": "",
-      "beds": "4",
-      "baths": "2.5",
-      "sqft": "1316",
-      "county": "Prince George's County",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/7314-lois-ln-lanham-md-2111431"
     },
     {
       "id": "auctioncom-2116714",
@@ -1226,23 +1209,6 @@
       "detail_url": "https://www.auction.com/details/1465-sussex-rd-essex-md-2123841"
     },
     {
-      "id": "auctioncom-2126922",
-      "property_address": "1338 Pentridge Road, Baltimore, MD 21239",
-      "auction_date": "2026-08-20",
-      "auction_time": "9:51 AM",
-      "auction_location": "Baltimore City Courthouse, Baltimore, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "4",
-      "baths": "2",
-      "sqft": "1616",
-      "county": "Baltimore City",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/1338-pentridge-rd-baltimore-md-2126922"
-    },
-    {
       "id": "auctioncom-2128010",
       "property_address": "7546 Battle Grove Cir, Baltimore, MD 21222",
       "auction_date": "2026-08-20",
@@ -1479,23 +1445,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/440-lynwood-dr-severna-park-md-2132524"
-    },
-    {
-      "id": "auctioncom-2110519",
-      "property_address": "420 Esmond Place, Upper Marlboro, MD 20774",
-      "auction_date": "2026-08-25",
-      "auction_time": "11:52 AM",
-      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
-      "opening_bid": "$565,857",
-      "bid_deposit": "",
-      "beds": "4",
-      "baths": "4",
-      "sqft": "1858",
-      "county": "Prince George's",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/420-esmond-pl-upper-marlboro-md-2110519"
     },
     {
       "id": "auctioncom-2129024",
@@ -2159,6 +2108,23 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/39-east-ave-hagerstown-md-2134247"
+    },
+    {
+      "id": "auctioncom-2149444",
+      "property_address": "8780 Rose Lane, Jessup, MD 20794",
+      "auction_date": "2026-09-11",
+      "auction_time": "9:32 AM",
+      "auction_location": "Howard County Courthouse, Ellicott City, MD",
+      "opening_bid": "$606,486",
+      "bid_deposit": "",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "1890",
+      "county": "Howard",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/8780-rose-ln-jessup-md-2149444"
     },
     {
       "id": "auctioncom-2140694",
