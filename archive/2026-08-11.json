@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T14:21:19Z",
+  "last_updated": "2026-08-11T21:52:18Z",
   "auctions": [
     {
       "id": "auctioncom-2105368",
@@ -323,23 +323,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/12725-brice-hollow-rd-se-cumberland-md-2114107"
-    },
-    {
-      "id": "auctioncom-2127611",
-      "property_address": "11503 Waloak Court, Hagerstown, MD 21742",
-      "auction_date": "2026-08-14",
-      "auction_time": "1:15 PM",
-      "auction_location": "Washington County Courthouse, Hagerstown, MD",
-      "opening_bid": "$535,335",
-      "bid_deposit": "",
-      "beds": "5",
-      "baths": "3.5",
-      "sqft": "3059",
-      "county": "Washington",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/11503-waloak-ct-hagerstown-md-2127611"
     },
     {
       "id": "auctioncom-2139134",
@@ -2314,6 +2297,23 @@
       "detail_url": "https://www.auction.com/details/439-meadow-rd-baltimore-md-2146529"
     },
     {
+      "id": "auctioncom-2125656",
+      "property_address": "1405 Ingleside Ave, Baltimore, MD 21207",
+      "auction_date": "2026-09-02",
+      "auction_time": "11:45 AM",
+      "auction_location": "MD Courthouse (see listing)",
+      "opening_bid": "$307,173",
+      "bid_deposit": "",
+      "beds": "3",
+      "baths": "1",
+      "sqft": "1379",
+      "county": "Baltimore County",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/1405-ingleside-ave-baltimore-md-2125656"
+    },
+    {
       "id": "auctioncom-2119218",
       "property_address": "26 Dulaney Hills Ct, Cockeysville, MD 21030",
       "auction_date": "2026-09-02",
@@ -2397,23 +2397,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/7260-mahogany-dr-landover-md-2125633"
-    },
-    {
-      "id": "auctioncom-2125656",
-      "property_address": "1405 Ingleside Ave, Baltimore, MD 21207",
-      "auction_date": "2026-09-02",
-      "auction_time": "9:00 AM",
-      "auction_location": "Baltimore County Courthouse, Towson, MD",
-      "opening_bid": "$307,173",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "1",
-      "sqft": "1379",
-      "county": "Baltimore",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/1405-ingleside-ave-baltimore-md-2125656"
     },
     {
       "id": "auctioncom-2128869",
