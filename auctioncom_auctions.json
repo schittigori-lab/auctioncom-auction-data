@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T14:21:34Z",
+  "last_updated": "2026-08-12T21:50:22Z",
   "auctions": [
     {
       "id": "auctioncom-2120583",
@@ -51,23 +51,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/7501-cove-point-way-elkridge-md-2109583"
-    },
-    {
-      "id": "auctioncom-2119279",
-      "property_address": "10 Hillside Court, Westminster, MD 21157",
-      "auction_date": "2026-08-12",
-      "auction_time": "9:00 AM",
-      "auction_location": "MD Courthouse (see listing)",
-      "opening_bid": "$280,368",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "1.5",
-      "sqft": "1280",
-      "county": "Carroll County",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/10-hillside-ct-westminster-md-2119279"
     },
     {
       "id": "auctioncom-2122332",
@@ -1192,6 +1175,23 @@
       "detail_url": "https://www.auction.com/details/4100-55th-ave-bladensburg-md-2129024"
     },
     {
+      "id": "auctioncom-2134513",
+      "property_address": "7007 Migliori Court, District Heights, MD 20747",
+      "auction_date": "2026-08-25",
+      "auction_time": "12:00 PM",
+      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
+      "opening_bid": "$354,582",
+      "bid_deposit": "",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1332",
+      "county": "Prince George's",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/7007-migliori-ct-district-heights-md-2134513"
+    },
+    {
       "id": "auctioncom-2135397",
       "property_address": "6395 Port Tobacco Road, Welcome, MD 20693",
       "auction_date": "2026-08-25",
@@ -1753,23 +1753,6 @@
       "detail_url": "https://www.auction.com/details/524-coral-reef-dr-gaithersburg-md-2136782"
     },
     {
-      "id": "auctioncom-2128154",
-      "property_address": "915 Holden Road, Frederick, MD 21701",
-      "auction_date": "2026-08-28",
-      "auction_time": "1:00 PM",
-      "auction_location": "Frederick County Courthouse, Frederick, MD",
-      "opening_bid": "$629,693",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "4",
-      "sqft": "2399",
-      "county": "Frederick",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/915-holden-rd-frederick-md-2128154"
-    },
-    {
       "id": "auctioncom-2128155",
       "property_address": "3405 Augusta Road, Manchester, MD 21102",
       "auction_date": "2026-08-28",
@@ -2125,6 +2108,23 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/11544-joyceton-dr-upper-marlboro-md-2141418"
+    },
+    {
+      "id": "auctioncom-2153176",
+      "property_address": "907 57Th Pl, Fairmount Heights, MD 20743",
+      "auction_date": "2026-09-01",
+      "auction_time": "9:00 AM",
+      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
+      "opening_bid": "",
+      "bid_deposit": "",
+      "beds": "",
+      "baths": "1.5",
+      "sqft": "1732",
+      "county": "Prince George's",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/907-57th-pl-fairmount-heights-md-2153176"
     },
     {
       "id": "auctioncom-2090593",
@@ -2499,6 +2499,23 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/552-crossbridge-dr-westminster-md-2150925"
+    },
+    {
+      "id": "auctioncom-2153895",
+      "property_address": "13713 Gullivers Trl, Bowie, MD 20720",
+      "auction_date": "2026-09-02",
+      "auction_time": "9:00 AM",
+      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
+      "opening_bid": "",
+      "bid_deposit": "",
+      "beds": "",
+      "baths": "2.5",
+      "sqft": "1988",
+      "county": "Prince George's",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/13713-gullivers-trl-bowie-md-2153895"
     },
     {
       "id": "auctioncom-2122886",
@@ -2890,6 +2907,23 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/2-ravenglass-rd-waldorf-md-2140694"
+    },
+    {
+      "id": "auctioncom-2152771",
+      "property_address": "2620 Kennison Lane, Bowie, MD 20715",
+      "auction_date": "2026-09-22",
+      "auction_time": "10:00 AM",
+      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
+      "opening_bid": "$498,248",
+      "bid_deposit": "",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "2112",
+      "county": "Prince George's",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/2620-kennison-ln-bowie-md-2152771"
     },
     {
       "id": "auctioncom-2123097",
