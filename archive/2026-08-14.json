@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T14:26:21Z",
+  "last_updated": "2026-08-14T21:28:36Z",
   "auctions": [
     {
       "id": "auctioncom-2114107",
@@ -257,21 +257,21 @@
       "detail_url": "https://www.auction.com/details/3021-fallstaff-rd-baltimore-md-2138065"
     },
     {
-      "id": "auctioncom-2113600",
-      "property_address": "434 E Lanvale Street, Baltimore, MD 21202",
+      "id": "auctioncom-2126715",
+      "property_address": "141 South Water Street, Frostburg, MD 21532",
       "auction_date": "2026-08-19",
-      "auction_time": "10:15 AM",
-      "auction_location": "Baltimore City Courthouse, Baltimore, MD",
-      "opening_bid": "",
+      "auction_time": "11:30 AM",
+      "auction_location": "Allegany County Courthouse, Cumberland, MD",
+      "opening_bid": "$158,976",
       "bid_deposit": "",
       "beds": "3",
-      "baths": "2.5",
-      "sqft": "1927",
-      "county": "Baltimore City",
+      "baths": "1",
+      "sqft": "1040",
+      "county": "Allegany",
       "state": "MD",
       "source": "AUCTIONCOM",
       "status": "active",
-      "detail_url": "https://www.auction.com/details/434-e-lanvale-st-baltimore-md-2113600"
+      "detail_url": "https://www.auction.com/details/141-s-water-st-frostburg-md-2126715"
     },
     {
       "id": "auctioncom-2113409",
@@ -306,23 +306,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/2619-molton-way-windsor-mill-md-2122544"
-    },
-    {
-      "id": "auctioncom-2126715",
-      "property_address": "141 South Water Street, Frostburg, MD 21532",
-      "auction_date": "2026-08-19",
-      "auction_time": "11:30 AM",
-      "auction_location": "Allegany County Courthouse, Cumberland, MD",
-      "opening_bid": "$158,976",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "1",
-      "sqft": "1040",
-      "county": "Allegany",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/141-s-water-st-frostburg-md-2126715"
     },
     {
       "id": "auctioncom-2123378",
@@ -1923,6 +1906,23 @@
       "detail_url": "https://www.auction.com/details/3005-s-leisure-world-blvd-silver-spring-md-2136368"
     },
     {
+      "id": "auctioncom-2125656",
+      "property_address": "1405 Ingleside Ave, Baltimore, MD 21207",
+      "auction_date": "2026-09-02",
+      "auction_time": "11:45 AM",
+      "auction_location": "MD Courthouse (see listing)",
+      "opening_bid": "$307,173",
+      "bid_deposit": "",
+      "beds": "3",
+      "baths": "1",
+      "sqft": "1379",
+      "county": "Baltimore County",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/1405-ingleside-ave-baltimore-md-2125656"
+    },
+    {
       "id": "auctioncom-2136778",
       "property_address": "118 Armstrong Street, Frostburg, MD 21532",
       "auction_date": "2026-09-02",
@@ -1955,23 +1955,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/439-meadow-rd-baltimore-md-2146529"
-    },
-    {
-      "id": "auctioncom-2125656",
-      "property_address": "1405 Ingleside Ave, Baltimore, MD 21207",
-      "auction_date": "2026-09-02",
-      "auction_time": "11:45 AM",
-      "auction_location": "MD Courthouse (see listing)",
-      "opening_bid": "$307,173",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "1",
-      "sqft": "1379",
-      "county": "Baltimore County",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/1405-ingleside-ave-baltimore-md-2125656"
     },
     {
       "id": "auctioncom-2119218",
@@ -2278,6 +2261,23 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/13713-gullivers-trl-bowie-md-2153895"
+    },
+    {
+      "id": "auctioncom-2156127",
+      "property_address": "10 Hillside Court, Westminster, MD 21157",
+      "auction_date": "2026-09-02",
+      "auction_time": "9:00 AM",
+      "auction_location": "MD Courthouse (see listing)",
+      "opening_bid": "$280,368",
+      "bid_deposit": "",
+      "beds": "3",
+      "baths": "1.5",
+      "sqft": "1280",
+      "county": "Carroll County",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/10-hillside-ct-westminster-md-2156127"
     },
     {
       "id": "auctioncom-2122886",
@@ -2642,7 +2642,7 @@
       "auction_date": "2026-09-11",
       "auction_time": "9:00 AM",
       "auction_location": "Frederick County Courthouse, Frederick, MD",
-      "opening_bid": "",
+      "opening_bid": "$352,623",
       "bid_deposit": "",
       "beds": "",
       "baths": "2.5",
