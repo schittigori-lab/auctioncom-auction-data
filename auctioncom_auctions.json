@@ -1,40 +1,6 @@
 {
-  "last_updated": "2026-08-14T21:28:36Z",
+  "last_updated": "2026-08-15T13:33:14Z",
   "auctions": [
-    {
-      "id": "auctioncom-2114107",
-      "property_address": "12725 Brice Hollow Rd Se, Cumberland, MD 21502",
-      "auction_date": "2026-08-14",
-      "auction_time": "9:00 AM",
-      "auction_location": "Allegany County Courthouse, Cumberland, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "1",
-      "sqft": "1288",
-      "county": "Allegany",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/12725-brice-hollow-rd-se-cumberland-md-2114107"
-    },
-    {
-      "id": "auctioncom-2139134",
-      "property_address": "13611 Pryor Rd #B, Thurmont, MD 21788",
-      "auction_date": "2026-08-14",
-      "auction_time": "9:00 AM",
-      "auction_location": "Frederick County Courthouse, Frederick, MD",
-      "opening_bid": "$393,304",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "1",
-      "sqft": "1348",
-      "county": "Frederick",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/13611-pryor-rd-thurmont-md-2139134"
-    },
     {
       "id": "auctioncom-2129011",
       "property_address": "3347 Old Line Avenue, Laurel, MD 20724",
@@ -1906,23 +1872,6 @@
       "detail_url": "https://www.auction.com/details/3005-s-leisure-world-blvd-silver-spring-md-2136368"
     },
     {
-      "id": "auctioncom-2125656",
-      "property_address": "1405 Ingleside Ave, Baltimore, MD 21207",
-      "auction_date": "2026-09-02",
-      "auction_time": "11:45 AM",
-      "auction_location": "MD Courthouse (see listing)",
-      "opening_bid": "$307,173",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "1",
-      "sqft": "1379",
-      "county": "Baltimore County",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/1405-ingleside-ave-baltimore-md-2125656"
-    },
-    {
       "id": "auctioncom-2136778",
       "property_address": "118 Armstrong Street, Frostburg, MD 21532",
       "auction_date": "2026-09-02",
@@ -1955,6 +1904,23 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/439-meadow-rd-baltimore-md-2146529"
+    },
+    {
+      "id": "auctioncom-2125656",
+      "property_address": "1405 Ingleside Ave, Baltimore, MD 21207",
+      "auction_date": "2026-09-02",
+      "auction_time": "11:45 AM",
+      "auction_location": "MD Courthouse (see listing)",
+      "opening_bid": "$307,173",
+      "bid_deposit": "",
+      "beds": "3",
+      "baths": "1",
+      "sqft": "1379",
+      "county": "Baltimore County",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/1405-ingleside-ave-baltimore-md-2125656"
     },
     {
       "id": "auctioncom-2119218",
