@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T13:50:32Z",
+  "last_updated": "2026-08-20T21:31:12Z",
   "auctions": [
     {
       "id": "auctioncom-2103364",
@@ -19,23 +19,6 @@
       "detail_url": "https://www.auction.com/details/3723-midheights-rd-baltimore-md-2103364"
     },
     {
-      "id": "auctioncom-2131401",
-      "property_address": "2135 East Boundary Avenue, Rosedale, MD 21237",
-      "auction_date": "2026-08-20",
-      "auction_time": "12:15 PM",
-      "auction_location": "Baltimore County Courthouse, Towson, MD",
-      "opening_bid": "$349,428",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "2.5",
-      "sqft": "1680",
-      "county": "Baltimore",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/2135-e-boundary-ave-rosedale-md-2131401"
-    },
-    {
       "id": "auctioncom-2131404",
       "property_address": "9639 Julia Lane, Owings Mills, MD 21117",
       "auction_date": "2026-08-20",
@@ -51,23 +34,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/9639-julia-ln-owings-mills-md-2131404"
-    },
-    {
-      "id": "auctioncom-2119114",
-      "property_address": "1810 Circle Road, Baltimore, MD 21204",
-      "auction_date": "2026-08-20",
-      "auction_time": "1:00 PM",
-      "auction_location": "MD Courthouse (see listing)",
-      "opening_bid": "$814,309",
-      "bid_deposit": "",
-      "beds": "4",
-      "baths": "3",
-      "sqft": "2458",
-      "county": "Baltimore County",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/1810-circle-rd-baltimore-md-2119114"
     },
     {
       "id": "auctioncom-2101932",
@@ -104,23 +70,6 @@
       "detail_url": "https://www.auction.com/details/2707-wegworth-ln-baltimore-md-2102499"
     },
     {
-      "id": "auctioncom-2119117",
-      "property_address": "3414 Wabash Avenue, Baltimore, MD 21215",
-      "auction_date": "2026-08-20",
-      "auction_time": "9:00 AM",
-      "auction_location": "Baltimore City Courthouse, Baltimore, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "2.5",
-      "sqft": "2418",
-      "county": "Baltimore City",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/3414-wabash-ave-baltimore-md-2119117"
-    },
-    {
       "id": "auctioncom-2123238",
       "property_address": "1648 East Belvedere Avenue, Baltimore, MD 21239",
       "auction_date": "2026-08-20",
@@ -136,23 +85,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/1648-e-belvedere-ave-baltimore-md-2123238"
-    },
-    {
-      "id": "auctioncom-2123841",
-      "property_address": "1465 Sussex Road, Essex, MD 21221",
-      "auction_date": "2026-08-20",
-      "auction_time": "9:00 AM",
-      "auction_location": "Baltimore County Courthouse, Towson, MD",
-      "opening_bid": "$251,698",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "1",
-      "sqft": "672",
-      "county": "Baltimore",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/1465-sussex-rd-essex-md-2123841"
     },
     {
       "id": "auctioncom-2128010",
@@ -2465,6 +2397,23 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/6778-wood-duck-ct-frederick-md-2155211"
+    },
+    {
+      "id": "auctioncom-2161549",
+      "property_address": "1465 Sussex Road, Essex, MD 21221",
+      "auction_date": "2026-09-10",
+      "auction_time": "9:00 AM",
+      "auction_location": "MD Courthouse (see listing)",
+      "opening_bid": "$251,698",
+      "bid_deposit": "",
+      "beds": "",
+      "baths": "1",
+      "sqft": "672",
+      "county": "Baltimore County",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/1465-sussex-rd-essex-md-2161549"
     },
     {
       "id": "auctioncom-2119572",
