@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T13:49:22Z",
+  "last_updated": "2026-08-21T21:27:58Z",
   "auctions": [
     {
       "id": "auctioncom-2104597",
@@ -53,23 +53,6 @@
       "detail_url": "https://www.auction.com/details/4401-fishermans-ct-olney-md-2130017"
     },
     {
-      "id": "auctioncom-2131775",
-      "property_address": "405 Harding Drive, Silver Spring, MD 20901",
-      "auction_date": "2026-08-21",
-      "auction_time": "3:32 PM",
-      "auction_location": "Montgomery County Courthouse, Rockville, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "2.5",
-      "sqft": "1906",
-      "county": "Montgomery",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/405-harding-dr-silver-spring-md-2131775"
-    },
-    {
       "id": "auctioncom-2131776",
       "property_address": "8601 Manchester Road, Unit 516, Silver Spring, MD 20901",
       "auction_date": "2026-08-21",
@@ -119,23 +102,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/24291-main-street-ext-mardela-springs-md-2117329"
-    },
-    {
-      "id": "auctioncom-2132531",
-      "property_address": "149 Brightwater Drive, Annapolis, MD 21401",
-      "auction_date": "2026-08-25",
-      "auction_time": "9:51 AM",
-      "auction_location": "Anne Arundel County Courthouse, Annapolis, MD",
-      "opening_bid": "$342,588",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "2.5",
-      "sqft": "1820",
-      "county": "Anne Arundel",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/149-brightwater-dr-annapolis-md-2132531"
     },
     {
       "id": "auctioncom-2132524",
@@ -323,23 +289,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/2205-four-h-park-rd-centreville-md-2131779"
-    },
-    {
-      "id": "auctioncom-2135387",
-      "property_address": "8162 Hickory Hollow Drive, Glen Burnie, MD 21060",
-      "auction_date": "2026-08-25",
-      "auction_time": "9:45 AM",
-      "auction_location": "Anne Arundel County Courthouse, Annapolis, MD",
-      "opening_bid": "$698,010",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "3.5",
-      "sqft": "3268",
-      "county": "Anne Arundel",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/8162-hickory-hollow-dr-glen-burnie-md-2135387"
     },
     {
       "id": "auctioncom-2139764",
@@ -604,9 +553,9 @@
       "auction_location": "Baltimore City Courthouse, Baltimore, MD",
       "opening_bid": "",
       "bid_deposit": "",
-      "beds": "6",
-      "baths": "4",
-      "sqft": "2930",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2450",
       "county": "Baltimore City",
       "state": "MD",
       "source": "AUCTIONCOM",
@@ -850,23 +799,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/10907-marlboro-crossing-ct-cheltenham-md-2110922"
-    },
-    {
-      "id": "auctioncom-2113120",
-      "property_address": "79 Van Weaver Dr, North East, MD 21901",
-      "auction_date": "2026-09-01",
-      "auction_time": "9:00 AM",
-      "auction_location": "Cecil County Courthouse, Elkton, MD",
-      "opening_bid": "$497,387",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "2",
-      "sqft": "2500",
-      "county": "Cecil",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/79-van-weaver-dr-north-east-md-2113120"
     },
     {
       "id": "auctioncom-2128595",
@@ -1309,23 +1241,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/3310-emmorton-rd-abingdon-md-2131360"
-    },
-    {
-      "id": "auctioncom-2131948",
-      "property_address": "502N Chapel Gate Ln, Baltimore, MD 21229",
-      "auction_date": "2026-09-02",
-      "auction_time": "9:00 AM",
-      "auction_location": "Baltimore City Courthouse, Baltimore, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "7",
-      "baths": "2.5",
-      "sqft": "2921",
-      "county": "Baltimore City",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/502-n-chapel-gate-ln-baltimore-md-2131948"
     },
     {
       "id": "auctioncom-2139327",
