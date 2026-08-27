@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27T00:33:34Z",
+  "last_updated": "2026-08-27T22:53:07Z",
   "auctions": [
     {
       "id": "auctioncom-2130295",
@@ -476,23 +476,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/7903-eton-ln-clinton-md-2140643"
-    },
-    {
-      "id": "auctioncom-2141417",
-      "property_address": "8012 Stone Haven Drive, Glen Burnie, MD 21060",
-      "auction_date": "2026-09-01",
-      "auction_time": "9:40 AM",
-      "auction_location": "Anne Arundel County Courthouse, Annapolis, MD",
-      "opening_bid": "$425,596",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "2",
-      "sqft": "1701",
-      "county": "Anne Arundel",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/8012-stone-haven-dr-glen-burnie-md-2141417"
     },
     {
       "id": "auctioncom-2153176",
@@ -2246,23 +2229,6 @@
       "detail_url": "https://www.auction.com/details/3209-bay-view-dr-church-creek-md-2152425"
     },
     {
-      "id": "auctioncom-2155095",
-      "property_address": "8913 Woodburn Court, Lanham, MD 20706",
-      "auction_date": "2026-09-15",
-      "auction_time": "11:32 AM",
-      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
-      "opening_bid": "$512,386",
-      "bid_deposit": "",
-      "beds": "5",
-      "baths": "3",
-      "sqft": "1176",
-      "county": "Prince George's",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/8913-woodburn-ct-lanham-md-2155095"
-    },
-    {
       "id": "auctioncom-2113404",
       "property_address": "2919 Brighton Street, Baltimore, MD 21216",
       "auction_date": "2026-09-16",
@@ -2603,23 +2569,6 @@
       "detail_url": "https://www.auction.com/details/2539-mission-hills-ct-annapolis-md-2149907"
     },
     {
-      "id": "auctioncom-2152051",
-      "property_address": "5716 Onnen Road, Baltimore, MD 21206",
-      "auction_date": "2026-09-17",
-      "auction_time": "10:21 AM",
-      "auction_location": "Baltimore City Courthouse, Baltimore, MD",
-      "opening_bid": "$276,964",
-      "bid_deposit": "",
-      "beds": "4",
-      "baths": "2",
-      "sqft": "1722",
-      "county": "Baltimore City",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/5716-onnen-rd-baltimore-md-2152051"
-    },
-    {
       "id": "auctioncom-2152142",
       "property_address": "5931 Grand Banks Rd, Columbia, MD 21044",
       "auction_date": "2026-09-17",
@@ -2761,7 +2710,7 @@
       "auction_date": "2026-09-18",
       "auction_time": "2:08 PM",
       "auction_location": "Washington County Courthouse, Hagerstown, MD",
-      "opening_bid": "$533,469",
+      "opening_bid": "$598,427",
       "bid_deposit": "",
       "beds": "4",
       "baths": "2.5",
@@ -2778,7 +2727,7 @@
       "auction_date": "2026-09-18",
       "auction_time": "3:55 PM",
       "auction_location": "Montgomery County Courthouse, Rockville, MD",
-      "opening_bid": "$402,582",
+      "opening_bid": "$401,364",
       "bid_deposit": "",
       "beds": "3",
       "baths": "1",
@@ -2797,7 +2746,7 @@
       "auction_location": "Dorchester County Courthouse, Cambridge, MD",
       "opening_bid": "$236,111",
       "bid_deposit": "",
-      "beds": "",
+      "beds": "3",
       "baths": "2.5",
       "sqft": "1560",
       "county": "Dorchester",
@@ -2814,7 +2763,7 @@
       "auction_location": "Montgomery County Courthouse, Rockville, MD",
       "opening_bid": "$459,501",
       "bid_deposit": "",
-      "beds": "",
+      "beds": "3",
       "baths": "3.5",
       "sqft": "1791",
       "county": "Montgomery",
@@ -2839,57 +2788,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/7-walden-way-mount-airy-md-2163038"
-    },
-    {
-      "id": "auctioncom-2129345",
-      "property_address": "1100 Agnew Dr, Rockville, MD 20851",
-      "auction_date": "2026-08-26",
-      "auction_time": "11:00 AM",
-      "auction_location": "Montgomery County Courthouse, Rockville, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "2",
-      "sqft": "1834",
-      "county": "Montgomery",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/1100-agnew-dr-rockville-md-2129345"
-    },
-    {
-      "id": "auctioncom-2126115",
-      "property_address": "18808 Sparkling Water Dr, Apt 303, Germantown, MD 20874",
-      "auction_date": "2026-08-26",
-      "auction_time": "11:00 AM",
-      "auction_location": "Montgomery County Courthouse, Rockville, MD",
-      "opening_bid": "$313,503",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "",
-      "sqft": "1437",
-      "county": "Montgomery",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/18808-sparkling-water-dr-germantown-md-2126115"
-    },
-    {
-      "id": "auctioncom-2126592",
-      "property_address": "118 Monroe Street Apt 807, Rockville, MD 20850",
-      "auction_date": "2026-08-26",
-      "auction_time": "9:00 AM",
-      "auction_location": "Montgomery County Courthouse, Rockville, MD",
-      "opening_bid": "$231,293",
-      "bid_deposit": "",
-      "beds": "2",
-      "baths": "1",
-      "sqft": "1231",
-      "county": "Montgomery",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/118-monroe-st-rockville-md-2126592"
     }
   ]
 }
