@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T17:07:24Z",
+  "last_updated": "2026-09-02T23:07:40Z",
   "auctions": [
     {
       "id": "auctioncom-2090593",
@@ -357,23 +357,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/116-cree-dr-oxon-hill-md-2096997"
-    },
-    {
-      "id": "auctioncom-2113592",
-      "property_address": "315 Woodside Place, Waldorf, MD 20601",
-      "auction_date": "2026-09-03",
-      "auction_time": "12:30 PM",
-      "auction_location": "Charles County Courthouse, La Plata, MD",
-      "opening_bid": "$330,597",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "2.5",
-      "sqft": "1686",
-      "county": "Charles",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/315-woodside-pl-waldorf-md-2113592"
     },
     {
       "id": "auctioncom-2121970",
@@ -1717,23 +1700,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/23-pierside-dr-baltimore-md-2159283"
-    },
-    {
-      "id": "auctioncom-2152706",
-      "property_address": "2346 Darby Court, Bel Air, MD 21015",
-      "auction_date": "2026-09-17",
-      "auction_time": "10:00 AM",
-      "auction_location": "Harford County Courthouse, Bel Air, MD",
-      "opening_bid": "$303,032",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "2.5",
-      "sqft": "1493",
-      "county": "Harford",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/2346-darby-ct-bel-air-md-2152706"
     },
     {
       "id": "auctioncom-2138299",
