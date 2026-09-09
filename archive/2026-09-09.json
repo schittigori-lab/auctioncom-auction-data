@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T17:05:09Z",
+  "last_updated": "2026-09-09T23:03:38Z",
   "auctions": [
     {
       "id": "auctioncom-2136567",
@@ -17,23 +17,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/31f-queen-anne-way-chester-md-2136567"
-    },
-    {
-      "id": "auctioncom-2139079",
-      "property_address": "13113 Two Farm Drive, Silver Spring, MD 20904",
-      "auction_date": "2026-09-09",
-      "auction_time": "1:00 PM",
-      "auction_location": "MD Courthouse (see listing)",
-      "opening_bid": "$674,648",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "3",
-      "sqft": "2954",
-      "county": "Montgomery County",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/13113-two-farm-dr-silver-spring-md-2139079"
     },
     {
       "id": "auctioncom-2117006",
@@ -173,7 +156,7 @@
     },
     {
       "id": "auctioncom-2153140",
-      "property_address": "213 Liberty Road,, Federalsburg, MD 21632",
+      "property_address": "213 Liberty Road, Federalsburg, MD 21632",
       "auction_date": "2026-09-09",
       "auction_time": "2:30 PM",
       "auction_location": "Caroline County Courthouse, Denton, MD",
@@ -921,9 +904,9 @@
     },
     {
       "id": "auctioncom-2159283",
-      "property_address": "23 Pierside Dr 128, Baltimore, MD 21230",
+      "property_address": "23 Pierside Dr  Unit 128, Baltimore, MD 21230",
       "auction_date": "2026-09-16",
-      "auction_time": "9:00 AM",
+      "auction_time": "10:15 AM",
       "auction_location": "Baltimore City Courthouse, Baltimore, MD",
       "opening_bid": "$175,508",
       "bid_deposit": "",
@@ -2570,7 +2553,7 @@
     },
     {
       "id": "auctioncom-2166642",
-      "property_address": "1520 Upshire Rd,, Baltimore, MD 21218",
+      "property_address": "1520 Upshire Rd, Baltimore, MD 21218",
       "auction_date": "2026-10-01",
       "auction_time": "10:15 AM",
       "auction_location": "Baltimore City Courthouse, Baltimore, MD",
