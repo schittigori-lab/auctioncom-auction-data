@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T18:27:08Z",
+  "last_updated": "2026-09-14T23:44:28Z",
   "auctions": [
     {
       "id": "auctioncom-2151045",
@@ -51,23 +51,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/2302-57th-pl-hyattsville-md-2128598"
-    },
-    {
-      "id": "auctioncom-2136798",
-      "property_address": "104 Cherry Street, St Michaels, MD 21663",
-      "auction_date": "2026-09-14",
-      "auction_time": "9:00 AM",
-      "auction_location": "Talbot County Courthouse, Easton, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "4",
-      "baths": "3",
-      "sqft": "2718",
-      "county": "Talbot",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/104-cherry-st-st-michaels-md-2136798"
     },
     {
       "id": "auctioncom-2143771",
@@ -580,23 +563,6 @@
       "detail_url": "https://www.auction.com/details/335-leyton-rd-reisterstown-md-2155087"
     },
     {
-      "id": "auctioncom-2155094",
-      "property_address": "9626 Winands Road, Randallstown, MD 21133",
-      "auction_date": "2026-09-17",
-      "auction_time": "11:48 AM",
-      "auction_location": "Baltimore County Courthouse, Towson, MD",
-      "opening_bid": "$444,978",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "2.5",
-      "sqft": "2076",
-      "county": "Baltimore",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/9626-winands-rd-randallstown-md-2155094"
-    },
-    {
       "id": "auctioncom-2155712",
       "property_address": "3103 Thornfield Road, Gwynn Oak, MD 21207",
       "auction_date": "2026-09-17",
@@ -955,9 +921,9 @@
     },
     {
       "id": "auctioncom-2167519",
-      "property_address": "11833 Steam Mill Hill Rd, Whaleyville, MD 21872",
+      "property_address": "11833 Steam Mill Hill Road, Whaleyville, MD 21872",
       "auction_date": "2026-09-22",
-      "auction_time": "9:00 AM",
+      "auction_time": "2:45 PM",
       "auction_location": "Worcester County Courthouse, Snow Hill, MD",
       "opening_bid": "$311,070",
       "bid_deposit": "",
@@ -1856,7 +1822,7 @@
     },
     {
       "id": "auctioncom-2161749",
-      "property_address": "23 Stemmers Run Road,, Earleville, MD 21919",
+      "property_address": "23 Stemmers Run Road, Earleville, MD 21919",
       "auction_date": "2026-10-01",
       "auction_time": "4:15 PM",
       "auction_location": "Cecil County Courthouse, Elkton, MD",
