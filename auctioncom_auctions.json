@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T16:59:53Z",
+  "last_updated": "2026-09-18T23:07:42Z",
   "auctions": [
     {
       "id": "auctioncom-2155792",
@@ -835,23 +835,6 @@
       "detail_url": "https://www.auction.com/details/3326-huntley-square-dr-temple-hills-md-2160710"
     },
     {
-      "id": "auctioncom-2169529",
-      "property_address": "3036 Rock Dr, Riva, MD 21140",
-      "auction_date": "2026-09-29",
-      "auction_time": "9:00 AM",
-      "auction_location": "Anne Arundel County Courthouse, Annapolis, MD",
-      "opening_bid": "$539,915",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "2",
-      "sqft": "1880",
-      "county": "Anne Arundel",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/3036-rock-dr-riva-md-2169529"
-    },
-    {
       "id": "auctioncom-2170945",
       "property_address": "12608 Henderson Chapel Ln, Bowie, MD 20720",
       "auction_date": "2026-09-29",
@@ -1583,6 +1566,23 @@
       "detail_url": "https://www.auction.com/details/8923-cottongrass-st-waldorf-md-2182993"
     },
     {
+      "id": "auctioncom-2173296",
+      "property_address": "24205 Carrlyn Dr, Ridgely, MD 21660",
+      "auction_date": "2026-10-06",
+      "auction_time": "1:30 PM",
+      "auction_location": "Caroline County Courthouse, Denton, MD",
+      "opening_bid": "$555,332",
+      "bid_deposit": "",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1792",
+      "county": "Caroline",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/24205-carrlyn-dr-ridgely-md-2173296"
+    },
+    {
       "id": "auctioncom-2150206",
       "property_address": "10440 Storch Turn, Lanham, MD 20706",
       "auction_date": "2026-10-06",
@@ -1651,23 +1651,6 @@
       "detail_url": "https://www.auction.com/details/6027-fairfield-ln-sykesville-md-2161929"
     },
     {
-      "id": "auctioncom-2163051",
-      "property_address": "6519 Wooster Rd, Bryans Road, MD 20616",
-      "auction_date": "2026-10-06",
-      "auction_time": "9:00 AM",
-      "auction_location": "Charles County Courthouse, La Plata, MD",
-      "opening_bid": "$366,072",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "1.5",
-      "sqft": "1719",
-      "county": "Charles",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/6519-wooster-rd-bryans-road-md-2163051"
-    },
-    {
       "id": "auctioncom-2171096",
       "property_address": "2 Gentry Court, Annapolis, MD 21403",
       "auction_date": "2026-10-06",
@@ -1717,23 +1700,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/1154-jeffrey-dr-crofton-md-2172292"
-    },
-    {
-      "id": "auctioncom-2173296",
-      "property_address": "24205 Carrlyn Dr, Ridgely, MD 21660",
-      "auction_date": "2026-10-06",
-      "auction_time": "1:30 PM",
-      "auction_location": "Caroline County Courthouse, Denton, MD",
-      "opening_bid": "$555,332",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "2",
-      "sqft": "1792",
-      "county": "Caroline",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/24205-carrlyn-dr-ridgely-md-2173296"
     },
     {
       "id": "auctioncom-2176508",
