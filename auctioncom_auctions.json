@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T00:40:06Z",
+  "last_updated": "2026-10-29T18:50:58Z",
   "auctions": [
     {
       "id": "auctioncom-2170863",
@@ -102,23 +102,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/493-mechanics-valley-rd-north-east-md-2183832"
-    },
-    {
-      "id": "auctioncom-2186416",
-      "property_address": "615 Haven Place, Edgewood, MD 21040",
-      "auction_date": "2026-10-29",
-      "auction_time": "9:00 AM",
-      "auction_location": "MD Courthouse (see listing)",
-      "opening_bid": "$344,691",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "1.5",
-      "sqft": "1898",
-      "county": "Harford County",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/615-haven-pl-edgewood-md-2186416"
     },
     {
       "id": "auctioncom-2190027",
@@ -306,23 +289,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/4008-doefield-dr-manchester-md-2173379"
-    },
-    {
-      "id": "auctioncom-2177905",
-      "property_address": "29 Valleyfield Court, Silver Spring, MD 20906",
-      "auction_date": "2026-11-02",
-      "auction_time": "2:30 PM",
-      "auction_location": "Montgomery County Courthouse, Rockville, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "1.5",
-      "sqft": "1104",
-      "county": "Montgomery",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/29-valleyfield-ct-silver-spring-md-2177905"
     },
     {
       "id": "auctioncom-2200728",
@@ -901,23 +867,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/9145-cumberland-st-chestertown-md-2160553"
-    },
-    {
-      "id": "auctioncom-2173378",
-      "property_address": "3675 Kempsford Field Pl, Waldorf, MD 20602",
-      "auction_date": "2026-11-09",
-      "auction_time": "12:30 PM",
-      "auction_location": "Charles County Courthouse, La Plata, MD",
-      "opening_bid": "$270,031",
-      "bid_deposit": "",
-      "beds": "2",
-      "baths": "1.5",
-      "sqft": "1120",
-      "county": "Charles",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/3675-kempsford-field-pl-waldorf-md-2173378"
     },
     {
       "id": "auctioncom-2191081",
@@ -2880,7 +2829,7 @@
       "auction_date": "2026-11-20",
       "auction_time": "4:33 PM",
       "auction_location": "Montgomery County Courthouse, Rockville, MD",
-      "opening_bid": "$178,830",
+      "opening_bid": "$178,841",
       "bid_deposit": "",
       "beds": "1",
       "baths": "1",
@@ -2897,7 +2846,7 @@
       "auction_date": "2026-11-20",
       "auction_time": "2:35 PM",
       "auction_location": "Washington County Courthouse, Hagerstown, MD",
-      "opening_bid": "$491,521",
+      "opening_bid": "$499,122",
       "bid_deposit": "",
       "beds": "4",
       "baths": "2.5",
@@ -2958,40 +2907,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/659-green-st-havre-de-grace-md-2215127"
-    },
-    {
-      "id": "auctioncom-2183939",
-      "property_address": "911 Brick Manor Cir, Silver Spring, MD 20905",
-      "auction_date": "2026-10-28",
-      "auction_time": "9:00 AM",
-      "auction_location": "Montgomery County Courthouse, Rockville, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "4",
-      "baths": "4.5",
-      "sqft": "6028",
-      "county": "Montgomery",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/911-brick-manor-cir-silver-spring-md-2183939"
-    },
-    {
-      "id": "auctioncom-2181039",
-      "property_address": "14439 Rice Rd, Hancock, MD 21750",
-      "auction_date": "2026-10-28",
-      "auction_time": "9:00 AM",
-      "auction_location": "Washington County Courthouse, Hagerstown, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "",
-      "sqft": "",
-      "county": "Washington",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/14439-rice-rd-hancock-md-2181039"
     }
   ]
 }
