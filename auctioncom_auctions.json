@@ -1,40 +1,6 @@
 {
-  "last_updated": "2026-10-31T00:33:36Z",
+  "last_updated": "2026-10-31T17:33:30Z",
   "auctions": [
-    {
-      "id": "auctioncom-2194171",
-      "property_address": "13579 Julia Manor Way, West Friendship, MD 21794",
-      "auction_date": "2026-10-30",
-      "auction_time": "9:00 AM",
-      "auction_location": "Howard County Courthouse, Ellicott City, MD",
-      "opening_bid": "$1,537,324",
-      "bid_deposit": "",
-      "beds": "4",
-      "baths": "3.5",
-      "sqft": "6809",
-      "county": "Howard",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/13579-julia-manor-way-west-friendship-md-2194171"
-    },
-    {
-      "id": "auctioncom-2168133",
-      "property_address": "5616 Gulfstream Row, Columbia, MD 21044",
-      "auction_date": "2026-10-30",
-      "auction_time": "9:37 AM",
-      "auction_location": "Howard County Courthouse, Ellicott City, MD",
-      "opening_bid": "$372,787",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "3.5",
-      "sqft": "1520",
-      "county": "Howard",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/5616-gulfstream-row-columbia-md-2168133"
-    },
     {
       "id": "auctioncom-2174313",
       "property_address": "9214 Three Oaks Drive, Silver Spring, MD 20901",
@@ -2652,40 +2618,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/659-green-st-havre-de-grace-md-2215127"
-    },
-    {
-      "id": "auctioncom-2201799",
-      "property_address": "6812 Falstone Drive, Frederick, MD 21702",
-      "auction_date": "2026-10-30",
-      "auction_time": "12:20 PM",
-      "auction_location": "Frederick County Courthouse, Frederick, MD",
-      "opening_bid": "$543,534",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "1",
-      "sqft": "2046",
-      "county": "Frederick",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/6812-falstone-dr-frederick-md-2201799"
-    },
-    {
-      "id": "auctioncom-2201819",
-      "property_address": "63 Bristoe Station Road, Taneytown, MD 21787",
-      "auction_date": "2026-10-30",
-      "auction_time": "11:00 AM",
-      "auction_location": "Carroll County Courthouse, Westminster, MD",
-      "opening_bid": "$340,469",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "2.5",
-      "sqft": "1560",
-      "county": "Carroll",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/63-bristoe-station-rd-taneytown-md-2201819"
     }
   ]
 }
