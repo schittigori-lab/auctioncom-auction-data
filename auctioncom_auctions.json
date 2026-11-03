@@ -1,57 +1,6 @@
 {
-  "last_updated": "2026-11-02T22:13:29Z",
+  "last_updated": "2026-11-03T02:48:04Z",
   "auctions": [
-    {
-      "id": "auctioncom-2174313",
-      "property_address": "9214 Three Oaks Drive, Silver Spring, MD 20901",
-      "auction_date": "2026-11-02",
-      "auction_time": "2:30 PM",
-      "auction_location": "Montgomery County Courthouse, Rockville, MD",
-      "opening_bid": "$634,242",
-      "bid_deposit": "",
-      "beds": "4",
-      "baths": "2.5",
-      "sqft": "1785",
-      "county": "Montgomery",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/9214-three-oaks-dr-silver-spring-md-2174313"
-    },
-    {
-      "id": "auctioncom-2172537",
-      "property_address": "18016 Tilghmanton Rd, Fairplay, MD 21733",
-      "auction_date": "2026-11-02",
-      "auction_time": "10:00 AM",
-      "auction_location": "Washington County Courthouse, Hagerstown, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "1",
-      "sqft": "1102",
-      "county": "Washington",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/18016-tilghmanton-rd-fairplay-md-2172537"
-    },
-    {
-      "id": "auctioncom-2200728",
-      "property_address": "17905 Laurel Run Rd Sw, Barton, MD 21521",
-      "auction_date": "2026-11-02",
-      "auction_time": "10:00 AM",
-      "auction_location": "Allegany County Courthouse, Cumberland, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "1",
-      "sqft": "1424",
-      "county": "Allegany",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/17905-laurel-run-rd-sw-barton-md-2200728"
-    },
     {
       "id": "auctioncom-2185871",
       "property_address": "1050 Taylor Rd, Street, MD 21154",
@@ -818,23 +767,6 @@
       "detail_url": "https://www.auction.com/details/4202-21st-ave-temple-hills-md-2189939"
     },
     {
-      "id": "auctioncom-2176263",
-      "property_address": "420 Esmond Place, Upper Marlboro, MD 20774",
-      "auction_date": "2026-11-10",
-      "auction_time": "12:38 PM",
-      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
-      "opening_bid": "$562,736",
-      "bid_deposit": "",
-      "beds": "4",
-      "baths": "4",
-      "sqft": "1858",
-      "county": "Prince George's",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/420-esmond-pl-upper-marlboro-md-2176263"
-    },
-    {
       "id": "auctioncom-2184844",
       "property_address": "2508 Fairlawn Street, Temple Hills, MD 20748",
       "auction_date": "2026-11-10",
@@ -850,6 +782,23 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/2508-fairlawn-st-temple-hills-md-2184844"
+    },
+    {
+      "id": "auctioncom-2176263",
+      "property_address": "420 Esmond Place, Upper Marlboro, MD 20774",
+      "auction_date": "2026-11-10",
+      "auction_time": "12:38 PM",
+      "auction_location": "Prince George's County Courthouse, Upper Marlboro, MD",
+      "opening_bid": "$562,736",
+      "bid_deposit": "",
+      "beds": "4",
+      "baths": "4",
+      "sqft": "1858",
+      "county": "Prince George's",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/420-esmond-pl-upper-marlboro-md-2176263"
     },
     {
       "id": "auctioncom-2204959",
@@ -2669,6 +2618,23 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/659-green-st-havre-de-grace-md-2215127"
+    },
+    {
+      "id": "auctioncom-2200728",
+      "property_address": "17905 Laurel Run Rd Sw, Barton, MD 21521",
+      "auction_date": "2026-11-02",
+      "auction_time": "10:00 AM",
+      "auction_location": "Allegany County Courthouse, Cumberland, MD",
+      "opening_bid": "",
+      "bid_deposit": "",
+      "beds": "3",
+      "baths": "1",
+      "sqft": "1424",
+      "county": "Allegany",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/17905-laurel-run-rd-sw-barton-md-2200728"
     }
   ]
 }
