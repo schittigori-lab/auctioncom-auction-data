@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T02:48:04Z",
+  "last_updated": "2026-11-03T20:00:25Z",
   "auctions": [
     {
       "id": "auctioncom-2185871",
@@ -17,23 +17,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/1050-taylor-rd-street-md-2185871"
-    },
-    {
-      "id": "auctioncom-2187374",
-      "property_address": "13 Briggs Court, Silver Spring, MD 20906",
-      "auction_date": "2026-11-04",
-      "auction_time": "10:00 AM",
-      "auction_location": "MD Courthouse (see listing)",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "5",
-      "baths": "3",
-      "sqft": "2286",
-      "county": "Montgomery County",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/13-briggs-ct-silver-spring-md-2187374"
     },
     {
       "id": "auctioncom-2201485",
@@ -425,23 +408,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/3237-elmley-ave-baltimore-md-2207502"
-    },
-    {
-      "id": "auctioncom-2209683",
-      "property_address": "5728 Emory Road, Upperco, MD 21155",
-      "auction_date": "2026-11-05",
-      "auction_time": "1:21 PM",
-      "auction_location": "Baltimore County Courthouse, Towson, MD",
-      "opening_bid": "$423,788",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "2",
-      "sqft": "1874",
-      "county": "Baltimore",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/5728-emory-rd-upperco-md-2209683"
     },
     {
       "id": "auctioncom-2208261",
@@ -918,23 +884,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/9527-westerdale-dr-upper-marlboro-md-2188617"
-    },
-    {
-      "id": "auctioncom-2190132",
-      "property_address": "2446 Sagewood Court, Waldorf, MD 20601",
-      "auction_date": "2026-11-10",
-      "auction_time": "3:13 PM",
-      "auction_location": "Charles County Courthouse, La Plata, MD",
-      "opening_bid": "$317,976",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "2.5",
-      "sqft": "1296",
-      "county": "Charles",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/2446-sagewood-ct-waldorf-md-2190132"
     },
     {
       "id": "auctioncom-2196749",
@@ -1618,9 +1567,9 @@
     },
     {
       "id": "auctioncom-2208142",
-      "property_address": "5903 Tamar Dr Unit 9, Columbia, MD 21045",
+      "property_address": "5903 Tamar Drive Unit 9, Columbia, MD 21045",
       "auction_date": "2026-11-17",
-      "auction_time": "10:00 AM",
+      "auction_time": "12:30 PM",
       "auction_location": "Howard County Courthouse, Ellicott City, MD",
       "opening_bid": "$204,888",
       "bid_deposit": "",
@@ -2540,7 +2489,7 @@
       "auction_date": "2026-11-25",
       "auction_time": "2:00 PM",
       "auction_location": "MD Courthouse (see listing)",
-      "opening_bid": "$149,309",
+      "opening_bid": "$148,497",
       "bid_deposit": "",
       "beds": "1",
       "baths": "1",
@@ -2557,7 +2506,7 @@
       "auction_date": "2026-11-25",
       "auction_time": "3:15 PM",
       "auction_location": "Washington County Courthouse, Hagerstown, MD",
-      "opening_bid": "$204,944",
+      "opening_bid": "$205,794",
       "bid_deposit": "",
       "beds": "3",
       "baths": "1",
@@ -2574,11 +2523,11 @@
       "auction_date": "2026-11-25",
       "auction_time": "10:00 AM",
       "auction_location": "Montgomery County Courthouse, Rockville, MD",
-      "opening_bid": "$290,351",
+      "opening_bid": "$342,103",
       "bid_deposit": "",
       "beds": "2",
       "baths": "2",
-      "sqft": "1315",
+      "sqft": "1446",
       "county": "Montgomery",
       "state": "MD",
       "source": "AUCTIONCOM",
@@ -2618,23 +2567,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/659-green-st-havre-de-grace-md-2215127"
-    },
-    {
-      "id": "auctioncom-2200728",
-      "property_address": "17905 Laurel Run Rd Sw, Barton, MD 21521",
-      "auction_date": "2026-11-02",
-      "auction_time": "10:00 AM",
-      "auction_location": "Allegany County Courthouse, Cumberland, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "1",
-      "sqft": "1424",
-      "county": "Allegany",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/17905-laurel-run-rd-sw-barton-md-2200728"
     }
   ]
 }
