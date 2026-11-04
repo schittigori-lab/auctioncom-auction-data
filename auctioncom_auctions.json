@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T20:00:25Z",
+  "last_updated": "2026-11-04T01:06:50Z",
   "auctions": [
     {
       "id": "auctioncom-2185871",
@@ -2516,23 +2516,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/107-n-artizan-st-williamsport-md-2186762"
-    },
-    {
-      "id": "auctioncom-2206807",
-      "property_address": "3005 S Leisure World Blvd, Silver Spring, MD 20906",
-      "auction_date": "2026-11-25",
-      "auction_time": "10:00 AM",
-      "auction_location": "Montgomery County Courthouse, Rockville, MD",
-      "opening_bid": "$342,103",
-      "bid_deposit": "",
-      "beds": "2",
-      "baths": "2",
-      "sqft": "1446",
-      "county": "Montgomery",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/3005-s-leisure-world-blvd-silver-spring-md-2206807"
     },
     {
       "id": "auctioncom-2222434",
