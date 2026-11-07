@@ -1,23 +1,6 @@
 {
-  "last_updated": "2026-11-07T00:42:31Z",
+  "last_updated": "2026-11-07T17:58:20Z",
   "auctions": [
-    {
-      "id": "auctioncom-2208261",
-      "property_address": "6610 East Beach Drive, New Market, MD 21774",
-      "auction_date": "2026-11-06",
-      "auction_time": "1:40 PM",
-      "auction_location": "Frederick County Courthouse, Frederick, MD",
-      "opening_bid": "$420,534",
-      "bid_deposit": "",
-      "beds": "3",
-      "baths": "3",
-      "sqft": "2047",
-      "county": "Frederick",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/6610-e-beach-dr-new-market-md-2208261"
-    },
     {
       "id": "auctioncom-2160553",
       "property_address": "9145 Cumberland Street, Chestertown, MD 21620",
@@ -2023,23 +2006,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/659-green-st-havre-de-grace-md-2215127"
-    },
-    {
-      "id": "auctioncom-2205334",
-      "property_address": "12867 Tull Rd, Whaleyville, MD 21872",
-      "auction_date": "2026-11-06",
-      "auction_time": "10:00 AM",
-      "auction_location": "Worcester County Courthouse, Snow Hill, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "2",
-      "sqft": "1540",
-      "county": "Worcester",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/12867-tull-rd-whaleyville-md-2205334"
     }
   ]
 }
