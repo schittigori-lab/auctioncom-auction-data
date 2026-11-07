@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T19:53:57Z",
+  "last_updated": "2026-11-07T00:42:31Z",
   "auctions": [
     {
       "id": "auctioncom-2208261",
@@ -17,40 +17,6 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/6610-e-beach-dr-new-market-md-2208261"
-    },
-    {
-      "id": "auctioncom-2221183",
-      "property_address": "5517 Huntington Parkway, Bethesda, MD 20814",
-      "auction_date": "2026-11-06",
-      "auction_time": "4:38 PM",
-      "auction_location": "Montgomery County Courthouse, Rockville, MD",
-      "opening_bid": "$1,124,616",
-      "bid_deposit": "",
-      "beds": "5",
-      "baths": "2.5",
-      "sqft": "1948",
-      "county": "Montgomery",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/5517-huntington-pkwy-bethesda-md-2221183"
-    },
-    {
-      "id": "auctioncom-2205334",
-      "property_address": "12867 Tull Rd, Whaleyville, MD 21872",
-      "auction_date": "2026-11-06",
-      "auction_time": "10:00 AM",
-      "auction_location": "Worcester County Courthouse, Snow Hill, MD",
-      "opening_bid": "",
-      "bid_deposit": "",
-      "beds": "",
-      "baths": "2",
-      "sqft": "1540",
-      "county": "Worcester",
-      "state": "MD",
-      "source": "AUCTIONCOM",
-      "status": "active",
-      "detail_url": "https://www.auction.com/details/12867-tull-rd-whaleyville-md-2205334"
     },
     {
       "id": "auctioncom-2160553",
@@ -2057,6 +2023,23 @@
       "source": "AUCTIONCOM",
       "status": "active",
       "detail_url": "https://www.auction.com/details/659-green-st-havre-de-grace-md-2215127"
+    },
+    {
+      "id": "auctioncom-2205334",
+      "property_address": "12867 Tull Rd, Whaleyville, MD 21872",
+      "auction_date": "2026-11-06",
+      "auction_time": "10:00 AM",
+      "auction_location": "Worcester County Courthouse, Snow Hill, MD",
+      "opening_bid": "",
+      "bid_deposit": "",
+      "beds": "",
+      "baths": "2",
+      "sqft": "1540",
+      "county": "Worcester",
+      "state": "MD",
+      "source": "AUCTIONCOM",
+      "status": "active",
+      "detail_url": "https://www.auction.com/details/12867-tull-rd-whaleyville-md-2205334"
     }
   ]
 }
