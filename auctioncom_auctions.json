@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T22:13:53Z",
+  "last_updated": "2026-11-26T22:10:58Z",
   "auctions": [
     {
       "id": "auctioncom-2237465",
@@ -2489,7 +2489,7 @@
       "auction_date": "2026-12-18",
       "auction_time": "4:04 PM",
       "auction_location": "Montgomery County Courthouse, Rockville, MD",
-      "opening_bid": "$560,048",
+      "opening_bid": "$589,239",
       "bid_deposit": "",
       "beds": "3",
       "baths": "2",
@@ -2506,7 +2506,7 @@
       "auction_date": "2026-12-18",
       "auction_time": "1:56 PM",
       "auction_location": "Washington County Courthouse, Hagerstown, MD",
-      "opening_bid": "$397,210",
+      "opening_bid": "$393,047",
       "bid_deposit": "",
       "beds": "4",
       "baths": "2.5",
@@ -2523,7 +2523,7 @@
       "auction_date": "2026-12-18",
       "auction_time": "1:52 PM",
       "auction_location": "Washington County Courthouse, Hagerstown, MD",
-      "opening_bid": "$483,857",
+      "opening_bid": "$478,853",
       "bid_deposit": "",
       "beds": "4",
       "baths": "2.5",
@@ -2540,7 +2540,7 @@
       "auction_date": "2026-12-18",
       "auction_time": "3:55 PM",
       "auction_location": "Montgomery County Courthouse, Rockville, MD",
-      "opening_bid": "",
+      "opening_bid": "$606,543",
       "bid_deposit": "",
       "beds": "4",
       "baths": "2.5",
